@@ -71,7 +71,7 @@
                 "type": "wordpress-plugin",
                 "dist": {
                     "type": "zip",
-                    "url": "https://download.civicrm.org/civicrm-4.6.10-wordpress.zip"
+                    "url": "https://download.civicrm.org/civicrm-4.6.11-wordpress.zip"
                 }
             }
         },
