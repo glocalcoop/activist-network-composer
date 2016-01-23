@@ -102,7 +102,7 @@
         {
             "type": "package",
             "package": {
-                "name": "glocalcoop/anp-network-main-theme",
+                "name": "glocalcoop/anp-network-main",
                 "version": "master",
                 "type": "wordpress-theme",
                 "dist": {
@@ -114,7 +114,7 @@
         {
             "type": "package",
             "package": {
-                "name": "glocalcoop/anp-network-subsite-theme",
+                "name": "glocalcoop/anp-network-subsite",
                 "version": "master",
                 "type": "wordpress-theme",
                 "dist": {
@@ -126,7 +126,7 @@
         {
             "type": "package",
             "package": {
-                "name": "glocalcoop/anp-network-partner-theme",
+                "name": "glocalcoop/anp-network-partner",
                 "version": "master",
                 "type": "wordpress-theme",
                 "dist": {
@@ -286,9 +286,9 @@
         "tadpole/cc.tadpole.csshelper": "dev-master",
         "wpackagist-plugin/wp-multi-network": "1.7.0",
         "WP-API/OAuth1": "dev-master",
-        "glocalcoop/anp-network-main-theme": "dev-master",
-        "glocalcoop/anp-network-subsite-theme": "dev-master",
-        "glocalcoop/anp-network-partner-theme": "dev-master"
+        "glocalcoop/anp-network-main": "dev-master",
+        "glocalcoop/anp-network-subsite": "dev-master",
+        "glocalcoop/anp-network-partner": "dev-master"
     },
     "require-dev": {
         "wpackagist-plugin/developer": ">=1.2.5",
