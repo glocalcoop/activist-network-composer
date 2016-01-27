@@ -227,7 +227,7 @@
                 "type": "civicrm-extension",
                 "dist": {
                     "type": "zip",
-                    "url": "https://bitbucket.org/tadpole/cc.tadpole.csshelper/get/b69b97ad21d9.zip"
+                    "url": "https://develop.tadpole.cc/extensions/cc.tadpole.csshelper/repository/archive.zip"
                 }
             }
         }
