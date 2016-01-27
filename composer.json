@@ -66,18 +66,6 @@
         {
             "type": "package",
             "package": {
-                "name": "civicrm/civicrm",
-                "version": "4.6.11",
-                "type": "wordpress-plugin",
-                "dist": {
-                    "type": "zip",
-                    "url": "https://download.civicrm.org/civicrm-4.6.11-wordpress.zip"
-                }
-            }
-        },
-        {
-            "type": "package",
-            "package": {
                 "name": "cuny-academic-commons/bp-event-organiser",
                 "version": "master",
                 "type": "wordpress-plugin",
@@ -135,7 +123,19 @@
                 }
             }
         },
-	{
+        {
+            "type": "package",
+            "package": {
+                "name": "civicrm/civicrm",
+                "version": "4.6.11",
+                "type": "wordpress-plugin",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://download.civicrm.org/civicrm-4.6.11-wordpress.zip"
+                }
+            }
+        },
+    	{
             "type": "package",
             "package": {
                 "name": "TechToThePeople/civisualize",
@@ -145,6 +145,9 @@
                     "type": "zip",
                     "url": "https://github.com/TechToThePeople/civisualize/archive/1.3.zip"
                 }
+            },
+            "require": {
+                "composer/installers": "~1.0"
             }
         },
         {
@@ -158,6 +161,10 @@
                     "url": "https://github.com/woolman/genderselfidentify/archive/1.2.zip"
                 }
             }
+            ,
+            "require": {
+                "composer/installers": "~1.0"
+            }
         },
         {
             "type": "package",
@@ -170,6 +177,10 @@
                     "url": "https://github.com/progressivetech/net.ourpowerbase.sumfields/archive/v2.0.5.zip"
                 }
             }
+            ,
+            "require": {
+                "composer/installers": "~1.0"
+            }
         },
         {
             "type": "package",
@@ -181,6 +192,9 @@
                     "type": "zip",
                     "url": "https://github.com/eileenmcnaughton/nz.co.fuzion.extendedreport/archive/2.1.zip"
                 }
+            },
+            "require": {
+                "composer/installers": "~1.0"
             }
         },
         {
@@ -193,6 +207,9 @@
                     "type": "zip",
                     "url": "https://github.com/dlobo/org.civicrm.module.cividiscount/archive/3.1.zip"
                 }
+            },
+            "require": {
+                "composer/installers": "~1.0"
             }
         },
         {
@@ -205,6 +222,9 @@
                     "type": "zip",
                     "url": "https://github.com/civicrm/org.civicrm.volunteer/archive/v4.5-1.4.1.zip"
                 }
+            },
+            "require": {
+                "composer/installers": "~1.0"
             }
         },
         {
@@ -217,6 +237,9 @@
                     "type": "zip",
                     "url": "https://github.com/JMAConsulting/biz.jmaconsulting.mte/archive/v2.0.zip"
                 }
+            },
+            "require": {
+                "composer/installers": "~1.0"
             }
         },
         {
@@ -229,6 +252,9 @@
                     "type": "zip",
                     "url": "https://develop.tadpole.cc/extensions/cc.tadpole.csshelper/repository/archive.zip"
                 }
+            },
+            "require": {
+                "composer/installers": "~1.0"
             }
         }
     ],

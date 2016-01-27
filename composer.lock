@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "1623402125f4167cbb78c6e6064397b3",
-    "content-hash": "81c705a9e300ce1aed3786c587ad9ea3",
+    "hash": "15221a2d19af5ddb8a86d683a5c64c80",
+    "content-hash": "d9cec19ffa584c760525f62c59be4095",
     "packages": [
         {
             "name": "JMAConsulting/biz.jmaconsulting.mte",
