@@ -67,11 +67,11 @@
             "type": "package",
             "package": {
                 "name": "civicrm/civicrm",
-                "version": "4.6.11",
+                "version": "4.6.12",
                 "type": "wordpress-plugin",
                 "dist": {
                     "type": "zip",
-                    "url": "https://download.civicrm.org/civicrm-4.6.11-wordpress.zip"
+                    "url": "https://download.civicrm.org/civicrm-4.6.12-wordpress.zip"
                 }
             }
         },
@@ -186,6 +186,30 @@
         {
             "type": "package",
             "package": {
+                "name": "eileenmcnaughton/org.civicrm.multisite",
+                "version": "master",
+                "type": "civicrm-extension",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/eileenmcnaughton/org.civicrm.multisite/archive/2.4.zip"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "eileenmcnaughton/nz.co.fuzion.omnipaymultiprocessor",
+                "version": "master",
+                "type": "civicrm-extension",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/eileenmcnaughton/nz.co.fuzion.omnipaymultiprocessor/archive/1.7.zip"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "dlobo/org.civicrm.module.cividiscount",
                 "version": "master",
                 "type": "civicrm-extension",
@@ -272,7 +296,7 @@
         "cuny-academic-commons/bp-event-organiser": "dev-master",
         "wpackagist-plugin/bp-xprofile-wp-user-sync": "0.6.3",
         "wpackagist-plugin/buddypress-xprofile-custom-fields-type": "2.3.0",
-        "civicrm/civicrm": ">=4.6.11",
+        "civicrm/civicrm": ">=4.6.12",
         "wpackagist-plugin/civicrm-admin-utilities": ">=0.2.2",
         "wpackagist-plugin/civicrm-wp-member-sync": "0.2.6",
         "wpackagist-plugin/bp-groups-civicrm-sync": ">=0.2.1",
@@ -280,6 +304,8 @@
         "woolman/genderselfidentify": "dev-master",
         "progressivetech/net.ourpowerbase.sumfields": "dev-master",
         "eileenmcnaughton/nz.co.fuzion.extendedreport": "dev-master",
+        "eileenmcnaughton/org.civicrm.multisite": "dev-master",
+        "eileenmcnaughton/nz.co.fuzion.omnipaymultiprocessor": "dev-master",
         "dlobo/org.civicrm.module.cividiscount": "dev-master",
         "civicrm/org.civicrm.volunteer": "dev-master",
         "JMAConsulting/biz.jmaconsulting.mte": "dev-master",
