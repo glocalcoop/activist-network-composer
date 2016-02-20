@@ -293,7 +293,6 @@
         "wpackagist-plugin/wp-mail-smtp": ">=0.9.5",
         "wpackagist-plugin/wp-multisite-feed": ">=1.0.3",
         "wpackagist-plugin/wp-piwik": "1.0.6",
-        "wpackagist-plugin/commons-in-a-box": "1.0.11",
         "cuny-academic-commons/bp-event-organiser": "dev-master",
         "wpackagist-plugin/bp-xprofile-wp-user-sync": "0.6.3",
         "wpackagist-plugin/buddypress-xprofile-custom-fields-type": "2.4.1",
