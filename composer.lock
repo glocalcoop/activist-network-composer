@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "0642bba4636023d5ffbf8f0631ebc6c9",
-    "content-hash": "3639b7a6a254e982a723ff7c739b52fd",
+    "hash": "822daf7a917968b4d0aed147bfdab03c",
+    "content-hash": "4c1c431160839edcadfff6ccb44372cd",
     "packages": [
         {
             "name": "JMAConsulting/biz.jmaconsulting.mte",
@@ -707,15 +707,15 @@
         },
         {
             "name": "wpackagist-plugin/event-organiser",
-            "version": "3.0.2",
+            "version": "3.0.3",
             "source": {
                 "type": "svn",
                 "url": "http://plugins.svn.wordpress.org/event-organiser/",
-                "reference": "tags/3.0.2"
+                "reference": "tags/3.0.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/event-organiser.3.0.2.zip",
+                "url": "https://downloads.wordpress.org/plugin/event-organiser.3.0.3.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -787,15 +787,15 @@
         },
         {
             "name": "wpackagist-plugin/jetpack",
-            "version": "3.9.1",
+            "version": "3.9.2",
             "source": {
                 "type": "svn",
                 "url": "http://plugins.svn.wordpress.org/jetpack/",
-                "reference": "tags/3.9.1"
+                "reference": "tags/3.9.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/jetpack.3.9.1.zip",
+                "url": "https://downloads.wordpress.org/plugin/jetpack.3.9.2.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -2098,16 +2098,16 @@
         },
         {
             "name": "sebastian/environment",
-            "version": "1.3.3",
+            "version": "1.3.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/environment.git",
-                "reference": "6e7133793a8e5a5714a551a8324337374be209df"
+                "reference": "dc7a29032cf72b54f36dac15a1ca5b3a1b6029bf"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/environment/zipball/6e7133793a8e5a5714a551a8324337374be209df",
-                "reference": "6e7133793a8e5a5714a551a8324337374be209df",
+                "url": "https://api.github.com/repos/sebastianbergmann/environment/zipball/dc7a29032cf72b54f36dac15a1ca5b3a1b6029bf",
+                "reference": "dc7a29032cf72b54f36dac15a1ca5b3a1b6029bf",
                 "shasum": ""
             },
             "require": {
@@ -2144,7 +2144,7 @@
                 "environment",
                 "hhvm"
             ],
-            "time": "2015-12-02 08:37:27"
+            "time": "2016-02-26 18:40:46"
         },
         {
             "name": "sebastian/exporter",
