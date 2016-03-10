@@ -340,7 +340,7 @@
         "wpackagist-plugin/wordpress-mu-domain-mapping": ">=0.5.5.1",
         "wpackagist-plugin/wp-email-login": ">=4.6.4",
         "wpackagist-plugin/wp-help": ">=1.4.1",
-        "wpackagist-plugin/wp-mail-smtp": "0.9.5",
+        "wpackagist-plugin/wp-mailfrom-ii": "1.1",
         "wpackagist-plugin/wp-multisite-feed": ">=1.0.3",
         "wpackagist-plugin/wp-piwik": ">=1.0.6",
         "wpackagist-plugin/buddypress": ">=2.5.0",
