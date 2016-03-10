@@ -148,11 +148,11 @@
                 "type": "wordpress-theme",
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/glocalcoop/anp-network-main-theme/archive/master.zip"
+                    "url": "https://github.com/glocalcoop/anp-network-main-v2/archive/master.zip"
                 },
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/glocalcoop/anp-network-main-theme.git",
+                    "url": "https://github.com/glocalcoop/anp-network-main-v2.git",
                     "reference": "master"
                 }
             }
@@ -160,33 +160,16 @@
         {
             "type": "package",
             "package": {
-                "name": "glocalcoop/anp-network-subsite",
+                "name": "glocalcoop/anp-network-main-child",
                 "version": "master",
                 "type": "wordpress-theme",
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/glocalcoop/anp-network-subsite-theme/archive/master.zip"
+                    "url": "https://github.com/glocalcoop/anp-network-main-v2-child/archive/master.zip"
                 },
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/glocalcoop/anp-network-subsite-theme.git",
-                    "reference": "master"
-                }
-            }
-        },
-        {
-            "type": "package",
-            "package": {
-                "name": "glocalcoop/anp-network-partner",
-                "version": "master",
-                "type": "wordpress-theme",
-                "dist": {
-                    "type": "zip",
-                    "url": "https://github.com/glocalcoop/anp-network-partner-theme/archive/master.zip"
-                },
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/glocalcoop/anp-network-partner-theme.git",
+                    "url": "https://github.com/glocalcoop/anp-network-main-v2-child.git",
                     "reference": "master"
                 }
             }
@@ -370,8 +353,7 @@
         "wpackagist-plugin/wp-multi-network": ">=1.7.0",
         "WP-API/OAuth1": "dev-master",
         "glocalcoop/anp-network-main": "dev-master",
-        "glocalcoop/anp-network-subsite": "dev-master",
-        "glocalcoop/anp-network-partner": "dev-master",
+        "glocalcoop/anp-network-main-child": "dev-master",
         "wpackagist-theme/twentysixteen": "1.1",
         "wpackagist-theme/edin": "1.2.3",
         "wpackagist-theme/intergalactic": "1.3",
