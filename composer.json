@@ -289,7 +289,7 @@
         "glocalcoop/anp-meetings": "dev-master",
         "glocalcoop/anp-buddypress-customization": "dev-master",
         "glocalcoop/handbook": "dev-master",
-        "wpackagist-plugin/codepress-admin-columns": ">=2.4.10",
+        "wpackagist-plugin/codepress-admin-columns": ">=2.5.2",
         "wpackagist-plugin/admin-post-navigation": ">=2.0",
         "wpackagist-plugin/advanced-custom-fields": ">=4.4.5",
         "wpackagist-plugin/agreeable": ">=1.5",
