@@ -237,18 +237,6 @@
         {
             "type": "package",
             "package": {
-                "name": "eileenmcnaughton/nz.co.fuzion.omnipaymultiprocessor",
-                "version": "master",
-                "type": "civicrm-extension",
-                "dist": {
-                    "type": "zip",
-                    "url": "https://github.com/eileenmcnaughton/nz.co.fuzion.omnipaymultiprocessor/archive/1.7.zip"
-                }
-            }
-        },
-        {
-            "type": "package",
-            "package": {
                 "name": "dlobo/org.civicrm.module.cividiscount",
                 "version": "master",
                 "type": "civicrm-extension",
@@ -345,7 +333,6 @@
         "progressivetech/net.ourpowerbase.sumfields": "dev-master",
         "eileenmcnaughton/nz.co.fuzion.extendedreport": "dev-master",
         "eileenmcnaughton/org.civicrm.multisite": "dev-master",
-        "eileenmcnaughton/nz.co.fuzion.omnipaymultiprocessor": "dev-master",
         "dlobo/org.civicrm.module.cividiscount": "dev-master",
         "civicrm/org.civicrm.volunteer": "dev-master",
         "tadpole/cc.tadpole.csshelper": "dev-master",
