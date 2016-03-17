@@ -261,6 +261,18 @@
         {
             "type": "package",
             "package": {
+                "name": "ginkgostreet/org.civicrm.angularprofiles",
+                "version": "master",
+                "type": "civicrm-extension",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/ginkgostreet/org.civicrm.angularprofiles/archive/v4.6-1.0.1.zip"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "tadpole/cc.tadpole.csshelper",
                 "version": "master",
                 "type": "civicrm-extension",
