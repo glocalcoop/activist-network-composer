@@ -350,6 +350,7 @@
         "tadpole/cc.tadpole.csshelper": "dev-master",
         "wpackagist-plugin/wp-multi-network": ">=1.7.0",
         "WP-API/OAuth1": "dev-master",
+        "wpackagist-plugin/kirki": "2.2.4",
         "glocalcoop/anp-network-main": "dev-master",
         "glocalcoop/anp-network-main-child": "dev-master",
         "wpackagist-theme/twentysixteen": "1.1"
