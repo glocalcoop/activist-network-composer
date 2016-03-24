@@ -131,6 +131,18 @@
         {
             "type": "package",
             "package": {
+                "name": "stuttter/wp-multi-network",
+                "version": "master",
+                "type": "wordpress-plugin",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/stuttter/wp-multi-network/archive/master.zip"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "WP-API/OAuth1",
                 "version": "master",
                 "type": "wordpress-plugin",
@@ -350,6 +362,7 @@
         "civicrm/org.civicrm.volunteer": "dev-master",
         "tadpole/cc.tadpole.csshelper": "dev-master",
         "wpackagist-plugin/wp-multi-network": ">=1.7.0",
+	"stuttter/wp-multi-network": "dev-master",
         "WP-API/OAuth1": "dev-master",
         "wpackagist-plugin/kirki": "2.2.5",
         "glocalcoop/anp-network-main": "dev-master",
