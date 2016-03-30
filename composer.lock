@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "9e20f4c6dd94a0df665f0024e9980f0b",
-    "content-hash": "9b3dcf25bb8d862b317b5bf8c5d969c0",
+    "hash": "005244ffa73da6abe17b4db5f8492367",
+    "content-hash": "8981747c55c9b4818ebea982163cc17b",
     "packages": [
         {
             "name": "TechToThePeople/civisualize",
@@ -995,6 +995,26 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/more-privacy-options/"
+        },
+        {
+            "name": "wpackagist-plugin/multisite-directory",
+            "version": "0.1.0",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/multisite-directory/",
+                "reference": "trunk"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/multisite-directory.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/multisite-directory/"
         },
         {
             "name": "wpackagist-plugin/multisite-plugin-manager",
