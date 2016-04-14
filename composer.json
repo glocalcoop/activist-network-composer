@@ -1,6 +1,6 @@
 {
-    "name": "glocalcoop/activist-network",
-    "homepage": "http://glocal.coop/activist-network-platform/",
+    "name": "glocalcoop/activist-network-composer",
+    "homepage": "https://github.com/glocalcoop/activist-network-composer",
     "authors": [
         {
             "name": "Pea, Glocal",
@@ -382,7 +382,7 @@
         "wpackagist-plugin/debug-bar-extender": ">=0.5",
         "wpackagist-plugin/debug-bar": ">=0.8.2",
         "wpackagist-plugin/debug-bar-actions-and-filters-addon": ">=1.4.1",
-        "wpackagist-plugin/wp-log-viewer": ">=0.12.5",
+        "wpackagist-plugin/wp-log-viewer": "1.0.4",
         "wpackagist-plugin/rewrite-rules-inspector": ">=1.2.1",
         "wpackagist-plugin/theme-check": ">=20150818.1",
         "wpackagist-plugin/user-switching": ">=1.0.9",
