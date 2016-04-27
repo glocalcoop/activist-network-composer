@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "be24e2b3986ab96907e300bca307721b",
-    "content-hash": "50c4704a27d1b7398d672579d3b3cdad",
+    "hash": "c6317f1b3e8e6d5d227ef6036d25abfe",
+    "content-hash": "b2beda180946fa45f9653f5c31d5af80",
     "packages": [
         {
             "name": "TechToThePeople/civisualize",
@@ -267,7 +267,7 @@
                 "shasum": null
             },
             "type": "wordpress-theme",
-            "time": "2016-04-14 01:52:25"
+            "time": "2016-04-27 20:14:02"
         },
         {
             "name": "glocalcoop/anp-network-main-child",
@@ -284,7 +284,7 @@
                 "shasum": null
             },
             "type": "wordpress-theme",
-            "time": "2016-03-21 19:13:12"
+            "time": "2016-04-22 19:57:27"
         },
         {
             "name": "glocalcoop/handbook",
@@ -363,6 +363,23 @@
                 "shasum": null
             },
             "type": "civicrm-extension"
+        },
+        {
+            "name": "wp-shortcake/shortcake",
+            "version": "master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/wp-shortcake/shortcake.git",
+                "reference": "master"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://github.com/wp-shortcake/shortcake/archive/master.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "type": "wordpress-plugin",
+            "time": "2016-04-04 16:58:52"
         },
         {
             "name": "wpackagist-plugin/admin-post-navigation",
@@ -606,15 +623,15 @@
         },
         {
             "name": "wpackagist-plugin/buddypress-xprofile-custom-fields-type",
-            "version": "2.4.5",
+            "version": "2.4.6",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/buddypress-xprofile-custom-fields-type/",
-                "reference": "tags/2.4.5"
+                "reference": "tags/2.4.6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/buddypress-xprofile-custom-fields-type.2.4.5.zip",
+                "url": "https://downloads.wordpress.org/plugin/buddypress-xprofile-custom-fields-type.2.4.6.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -886,15 +903,15 @@
         },
         {
             "name": "wpackagist-plugin/jetpack",
-            "version": "3.9.6",
+            "version": "4.0.2",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/jetpack/",
-                "reference": "tags/3.9.6"
+                "reference": "tags/4.0.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/jetpack.3.9.6.zip",
+                "url": "https://downloads.wordpress.org/plugin/jetpack.4.0.2.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -1086,15 +1103,15 @@
         },
         {
             "name": "wpackagist-plugin/polylang",
-            "version": "1.8.5",
+            "version": "1.9",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/polylang/",
-                "reference": "tags/1.8.5"
+                "reference": "tags/1.9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/polylang.1.8.5.zip",
+                "url": "https://downloads.wordpress.org/plugin/polylang.1.9.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -1143,6 +1160,26 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/rss-importer/"
+        },
+        {
+            "name": "wpackagist-plugin/shortcake-bakery",
+            "version": "0.1.0",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/shortcake-bakery/",
+                "reference": "tags/0.1.0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/shortcake-bakery.0.1.0.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/shortcake-bakery/"
         },
         {
             "name": "wpackagist-plugin/simple-author-box",
@@ -2420,6 +2457,26 @@
             "time": "2016-03-04 07:55:57"
         },
         {
+            "name": "wpackagist-plugin/customizer-reset-by-wpzoom",
+            "version": "1.0.1",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/customizer-reset-by-wpzoom/",
+                "reference": "trunk"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/customizer-reset-by-wpzoom.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/customizer-reset-by-wpzoom/"
+        },
+        {
             "name": "wpackagist-plugin/debug-bar",
             "version": "0.8.4",
             "source": {
@@ -2619,6 +2676,7 @@
         "civicrm/org.civicrm.volunteer": 20,
         "tadpole/cc.tadpole.csshelper": 20,
         "stuttter/wp-multi-network": 20,
+        "wp-shortcake/shortcake": 20,
         "glocalcoop/anp-network-main": 20,
         "glocalcoop/anp-network-main-child": 20
     },

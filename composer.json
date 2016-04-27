@@ -160,6 +160,23 @@
         {
             "type": "package",
             "package": {
+                "name": "wp-shortcake/shortcake",
+                "version": "master",
+                "type": "wordpress-plugin",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/wp-shortcake/shortcake/archive/master.zip"
+                },
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/wp-shortcake/shortcake.git",
+                    "reference": "master"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "glocalcoop/anp-network-main",
                 "version": "master",
                 "type": "wordpress-theme",
@@ -372,6 +389,8 @@
         "wpackagist-plugin/wp-multi-network": ">=1.7.0",
         "stuttter/wp-multi-network": "dev-master",
         "wpackagist-plugin/kirki": "2.2.7",
+        "wpackagist-plugin/shortcake-bakery": "0.1.0",
+        "wp-shortcake/shortcake": "dev-master",
         "glocalcoop/anp-network-main": "dev-master",
         "glocalcoop/anp-network-main-child": "dev-master",
         "wpackagist-theme/twentysixteen": "1.1"
