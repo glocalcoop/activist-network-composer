@@ -340,7 +340,7 @@
         "wpackagist-plugin/members": ">=1.1.1",
         "wpackagist-plugin/moderate-new-blogs": ">=4.3",
         "wpackagist-plugin/more-privacy-options": ">=4.3",
-        "wpackagist-plugin/multisite-directory": "0.1.2",
+        "wpackagist-plugin/multisite-directory": "0.2.*",
         "wpackagist-plugin/multisite-plugin-manager": "3.1.4",
         "wpackagist-plugin/nav-menu-roles": ">=1.7.9",
         "wpackagist-plugin/polylang": ">=1.8.5",
