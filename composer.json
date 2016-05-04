@@ -160,6 +160,18 @@
         {
             "type": "package",
             "package": {
+                "name": "johnjamesjacoby/bp-multi-network",
+                "version": "master",
+                "type": "wordpress-muplugin",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/johnjamesjacoby/bp-multi-network/archive/master.zip"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "wp-shortcake/shortcake",
                 "version": "master",
                 "type": "wordpress-plugin",
@@ -207,114 +219,6 @@
                     "reference": "master"
                 }
             }
-        },
-        {
-            "type": "package",
-            "package": {
-                "name": "TechToThePeople/civisualize",
-                "version": "master",
-                "type": "civicrm-extension",
-                "dist": {
-                    "type": "zip",
-                    "url": "https://github.com/TechToThePeople/civisualize/archive/1.3.zip"
-                }
-            }
-        },
-        {
-            "type": "package",
-            "package": {
-                "name": "woolman/genderselfidentify",
-                "version": "master",
-                "type": "civicrm-extension",
-                "dist": {
-                    "type": "zip",
-                    "url": "https://github.com/woolman/genderselfidentify/archive/1.2.zip"
-                }
-            }
-        },
-        {
-            "type": "package",
-            "package": {
-                "name": "progressivetech/net.ourpowerbase.sumfields",
-                "version": "master",
-                "type": "civicrm-extension",
-                "dist": {
-                    "type": "zip",
-                    "url": "https://github.com/progressivetech/net.ourpowerbase.sumfields/archive/v2.0.5.zip"
-                }
-            }
-        },
-        {
-            "type": "package",
-            "package": {
-                "name": "eileenmcnaughton/nz.co.fuzion.extendedreport",
-                "version": "master",
-                "type": "civicrm-extension",
-                "dist": {
-                    "type": "zip",
-                    "url": "https://github.com/eileenmcnaughton/nz.co.fuzion.extendedreport/archive/2.1.zip"
-                }
-            }
-        },
-        {
-            "type": "package",
-            "package": {
-                "name": "eileenmcnaughton/org.civicrm.multisite",
-                "version": "master",
-                "type": "civicrm-extension",
-                "dist": {
-                    "type": "zip",
-                    "url": "https://github.com/eileenmcnaughton/org.civicrm.multisite/archive/2.4.zip"
-                }
-            }
-        },
-        {
-            "type": "package",
-            "package": {
-                "name": "dlobo/org.civicrm.module.cividiscount",
-                "version": "master",
-                "type": "civicrm-extension",
-                "dist": {
-                    "type": "zip",
-                    "url": "https://github.com/dlobo/org.civicrm.module.cividiscount/archive/3.1.zip"
-                }
-            }
-        },
-        {
-            "type": "package",
-            "package": {
-                "name": "civicrm/org.civicrm.volunteer",
-                "version": "master",
-                "type": "civicrm-extension",
-                "dist": {
-                    "type": "zip",
-                    "url": "https://github.com/civicrm/org.civicrm.volunteer/archive/v4.5-1.4.1.zip"
-                }
-            }
-        },
-        {
-            "type": "package",
-            "package": {
-                "name": "ginkgostreet/org.civicrm.angularprofiles",
-                "version": "master",
-                "type": "civicrm-extension",
-                "dist": {
-                    "type": "zip",
-                    "url": "https://github.com/ginkgostreet/org.civicrm.angularprofiles/archive/v4.6-1.0.1.zip"
-                }
-            }
-        },
-        {
-            "type": "package",
-            "package": {
-                "name": "tadpole/cc.tadpole.csshelper",
-                "version": "master",
-                "type": "civicrm-extension",
-                "dist": {
-                    "type": "zip",
-                    "url": "https://develop.tadpole.cc/extensions/cc.tadpole.csshelper/repository/archive.zip?ref=4.6"
-                }
-            }
         }
     ],
     "require": {
@@ -324,9 +228,9 @@
         "glocalcoop/anp-buddypress-customization": "dev-master",
         "glocalcoop/handbook": "dev-master",
         "glocalcoop/knowledge-base": "dev-master",
-        "wpackagist-plugin/codepress-admin-columns": ">=2.5.3",
+        "wpackagist-plugin/codepress-admin-columns": ">=2.5.6.2",
         "wpackagist-plugin/admin-post-navigation": ">=2.0",
-        "wpackagist-plugin/advanced-custom-fields": ">=4.4.5",
+        "wpackagist-plugin/advanced-custom-fields": ">=4.4.7",
         "wpackagist-plugin/agreeable": ">=1.5",
         "wpackagist-plugin/blog-copier": ">=1.0.7",
         "wpackagist-plugin/co-authors-plus": "3.1.1",
@@ -334,31 +238,31 @@
         "wpackagist-plugin/event-organiser": ">=3.0.5",
         "wpackagist-plugin/event-organiser-csv": ">=0.3.2",
         "wpackagist-plugin/event-organiser-posterboard": ">=2.0.1",
-        "wpackagist-plugin/jetpack-module-control": ">=1.4.1",
-        "wpackagist-plugin/jetpack": ">=3.9.6",
+        "wpackagist-plugin/jetpack-module-control": ">=1.4.2",
+        "wpackagist-plugin/jetpack": ">=4.0.2",
         "wpackagist-plugin/join-my-multisite": ">=1.7.8",
         "wpackagist-plugin/members": ">=1.1.1",
         "wpackagist-plugin/moderate-new-blogs": ">=4.3",
         "wpackagist-plugin/more-privacy-options": ">=4.3",
-        "wpackagist-plugin/multisite-directory": "0.1.2",
+        "wpackagist-plugin/multisite-directory": "0.2",
         "wpackagist-plugin/multisite-plugin-manager": "3.1.4",
         "wpackagist-plugin/nav-menu-roles": ">=1.7.9",
-        "wpackagist-plugin/polylang": ">=1.8.5",
+        "wpackagist-plugin/polylang": ">=1.9",
         "wpackagist-plugin/polylang-theme-strings": ">=3.0",
         "wpackagist-plugin/rss-importer": ">=0.2",
         "wpackagist-plugin/simple-author-box": ">=1.5",
         "wpackagist-plugin/simply-show-ids": ">=1.3.3",
-        "wpackagist-plugin/siteorigin-panels": ">=2.4.2",
-        "wpackagist-plugin/so-widgets-bundle": ">=1.5.9",
-        "wpackagist-plugin/tagregator": ">=0.6",
-        "wpackagist-plugin/unconfirmed": ">=1.3",
+        "wpackagist-plugin/siteorigin-panels": ">=2.4.6",
+        "wpackagist-plugin/so-widgets-bundle": ">=1.5.11",
+	"wpackagist-plugin/widgets-for-siteorigin": "1.2.2",
+        "wpackagist-plugin/unconfirmed": ">=1.3.1",
         "wpackagist-plugin/user-switching": ">=1.0.9",
         "wpackagist-plugin/widget-css-classes": ">=1.3.0",
         "wpackagist-plugin/wordpress-importer": ">=0.6.1",
         "wpackagist-plugin/wordpress-mu-domain-mapping": ">=0.5.5.1",
         "wpackagist-plugin/wp-email-login": ">=4.6.4",
         "wpackagist-plugin/wp-pgp-encrypted-emails": ">=0.4",
-        "wpackagist-plugin/email-templates": "1.1.3",
+        "wpackagist-plugin/email-templates": "1.1.4",
         "wpackagist-plugin/wp-multisite-feed": ">=1.0.3",
         "wpackagist-plugin/wp-piwik": ">=1.0.8",
         "wpackagist-plugin/buddypress": ">=2.5.2",
@@ -367,29 +271,23 @@
         "wpackagist-plugin/buddypress-docs": ">=1.9.0",
         "wpackagist-plugin/buddypress-group-email-subscription": ">=3.6.0",
         "wpackagist-plugin/bp-xprofile-wp-user-sync": ">=0.6.3",
-        "wpackagist-plugin/buddypress-xprofile-custom-fields-type": ">=2.4.4",
+        "wpackagist-plugin/buddypress-xprofile-custom-fields-type": ">=2.4.6",
         "wpackagist-plugin/custom-profile-filters-for-buddypress": ">=0.3.1",
-        "wpackagist-plugin/invite-anyone": ">=1.3.9",
-        "wpackagist-plugin/bbpress": ">=2.5.8",
+        "wpackagist-plugin/invite-anyone": ">=1.3.10",
+        "wpackagist-plugin/bbpress": ">=2.5.9",
         "wpackagist-plugin/gd-bbpress-attachments": "2.3.1",
         "cuny-academic-commons/bp-event-organiser": "dev-master",
         "civicrm/civicrm": ">=4.6.14",
         "wpackagist-plugin/civicrm-admin-utilities": ">=0.2.3",
         "wpackagist-plugin/civicrm-wp-member-sync": ">=0.2.7",
-        "wpackagist-plugin/bp-groups-civicrm-sync": ">=0.2.1",
+        "wpackagist-plugin/bp-groups-civicrm-sync": ">=0.3.1",
         "wpackagist-plugin/civicrm-contribution-page-widget": "0.1",
-        "TechToThePeople/civisualize": "dev-master",
-        "woolman/genderselfidentify": "dev-master",
-        "progressivetech/net.ourpowerbase.sumfields": "dev-master",
-        "eileenmcnaughton/nz.co.fuzion.extendedreport": "dev-master",
-        "eileenmcnaughton/org.civicrm.multisite": "dev-master",
-        "dlobo/org.civicrm.module.cividiscount": "dev-master",
-        "civicrm/org.civicrm.volunteer": "dev-master",
-        "tadpole/cc.tadpole.csshelper": "dev-master",
-        "wpackagist-plugin/wp-multi-network": ">=1.7.0",
         "stuttter/wp-multi-network": "dev-master",
-        "wpackagist-plugin/kirki": "2.2.7",
+	"johnjamesjacoby/bp-multi-network": "dev-master",
+        "wpackagist-plugin/kirki": "2.3.2",
         "wpackagist-plugin/shortcake-bakery": "0.1.0",
+	"wpackagist-plugin/wp-team-list": "2.0.0",
+	"wpackagist-plugin/google-docs-shortcode": "0.4",
         "wp-shortcake/shortcake": "dev-master",
         "glocalcoop/anp-network-main": "dev-master",
         "glocalcoop/anp-network-main-child": "dev-master",
