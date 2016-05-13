@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "732a44a497ca7b1da2b30d39f697dfd8",
-    "content-hash": "0e3168b2f390701bca0ce5046cef4d14",
+    "hash": "a64b80b170600f358e1d386f855df8e2",
+    "content-hash": "0fd019209c0214d46711b6a49625cb38",
     "packages": [
         {
             "name": "civicrm/civicrm",
@@ -506,15 +506,15 @@
         },
         {
             "name": "wpackagist-plugin/buddypress-docs",
-            "version": "1.9.0",
+            "version": "1.9.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/buddypress-docs/",
-                "reference": "tags/1.9.0"
+                "reference": "tags/1.9.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/buddypress-docs.1.9.0.zip",
+                "url": "https://downloads.wordpress.org/plugin/buddypress-docs.1.9.1.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -626,15 +626,15 @@
         },
         {
             "name": "wpackagist-plugin/co-authors-plus",
-            "version": "3.1.1",
+            "version": "3.2",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/co-authors-plus/",
-                "reference": "tags/3.1.1"
+                "reference": "tags/3.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/co-authors-plus.3.1.1.zip",
+                "url": "https://downloads.wordpress.org/plugin/co-authors-plus.3.2.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -986,15 +986,15 @@
         },
         {
             "name": "wpackagist-plugin/multisite-directory",
-            "version": "0.2",
+            "version": "0.2.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/multisite-directory/",
-                "reference": "tags/0.2"
+                "reference": "tags/0.2.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/multisite-directory.0.2.zip",
+                "url": "https://downloads.wordpress.org/plugin/multisite-directory.0.2.1.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -1026,15 +1026,15 @@
         },
         {
             "name": "wpackagist-plugin/nav-menu-roles",
-            "version": "1.8.0",
+            "version": "1.8.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/nav-menu-roles/",
-                "reference": "tags/1.8.0"
+                "reference": "tags/1.8.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/nav-menu-roles.1.8.0.zip",
+                "url": "https://downloads.wordpress.org/plugin/nav-menu-roles.1.8.1.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -1166,15 +1166,15 @@
         },
         {
             "name": "wpackagist-plugin/siteorigin-panels",
-            "version": "2.4.6",
+            "version": "2.4.8",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/siteorigin-panels/",
-                "reference": "tags/2.4.6"
+                "reference": "tags/2.4.8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/siteorigin-panels.2.4.6.zip",
+                "url": "https://downloads.wordpress.org/plugin/siteorigin-panels.2.4.8.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -1763,20 +1763,23 @@
         },
         {
             "name": "phpunit/php-timer",
-            "version": "1.0.7",
+            "version": "1.0.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/php-timer.git",
-                "reference": "3e82f4e9fc92665fafd9157568e4dcb01d014e5b"
+                "reference": "38e9124049cf1a164f1e4537caf19c99bf1eb260"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/php-timer/zipball/3e82f4e9fc92665fafd9157568e4dcb01d014e5b",
-                "reference": "3e82f4e9fc92665fafd9157568e4dcb01d014e5b",
+                "url": "https://api.github.com/repos/sebastianbergmann/php-timer/zipball/38e9124049cf1a164f1e4537caf19c99bf1eb260",
+                "reference": "38e9124049cf1a164f1e4537caf19c99bf1eb260",
                 "shasum": ""
             },
             "require": {
                 "php": ">=5.3.3"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "~4|~5"
             },
             "type": "library",
             "autoload": {
@@ -1800,7 +1803,7 @@
             "keywords": [
                 "timer"
             ],
-            "time": "2015-06-21 08:01:12"
+            "time": "2016-05-12 18:03:57"
         },
         {
             "name": "phpunit/php-token-stream",
@@ -2352,7 +2355,7 @@
         },
         {
             "name": "symfony/yaml",
-            "version": "v3.0.5",
+            "version": "v3.0.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/yaml.git",
@@ -2581,15 +2584,15 @@
         },
         {
             "name": "wpackagist-plugin/wp-log-viewer",
-            "version": "1.0.4",
+            "version": "1.0.5",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wp-log-viewer/",
-                "reference": "tags/1.0.4"
+                "reference": "tags/1.0.5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wp-log-viewer.1.0.4.zip",
+                "url": "https://downloads.wordpress.org/plugin/wp-log-viewer.1.0.5.zip",
                 "reference": null,
                 "shasum": null
             },
