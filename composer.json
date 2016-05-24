@@ -265,7 +265,7 @@
         "wpackagist-plugin/email-templates": "1.1.4",
         "wpackagist-plugin/wp-multisite-feed": ">=1.0.3",
         "wpackagist-plugin/wp-piwik": ">=1.0.8",
-        "wpackagist-plugin/buddypress": ">=2.5.2",
+        "wpackagist-plugin/buddypress": ">=2.5.3",
         "wpackagist-plugin/bp-groupblog": ">=1.8.12",
         "wpackagist-plugin/bp-mpo-activity-filter": ">=1.2",
         "wpackagist-plugin/buddypress-docs": ">=1.9.0",

@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "81ce3cf3ba0b963016649f379751d263",
-    "content-hash": "7a6772bce88375bdb13e33234565a38d",
+    "hash": "f836a08edef4f43970c7fa3ba3d2ed00",
+    "content-hash": "309582c47030611710884aa12f121fab",
     "packages": [
         {
             "name": "civicrm/civicrm",
@@ -486,15 +486,15 @@
         },
         {
             "name": "wpackagist-plugin/buddypress",
-            "version": "2.5.2",
+            "version": "2.5.3",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/buddypress/",
-                "reference": "tags/2.5.2"
+                "reference": "tags/2.5.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/buddypress.2.5.2.zip",
+                "url": "https://downloads.wordpress.org/plugin/buddypress.2.5.3.zip",
                 "reference": null,
                 "shasum": null
             },
