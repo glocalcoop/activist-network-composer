@@ -145,6 +145,18 @@
                 }
             }
         },
+	 {
+            "type": "package",
+            "package": {
+                "name": "r-a-y/bp-hide-user",
+                "version": "master",
+                "type": "wordpress-plugin",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/r-a-y/bp-hide-user/archive/master.zip"
+                }
+            }
+        },
         {
             "type": "package",
             "package": {
@@ -265,6 +277,7 @@
         "wpackagist-plugin/email-templates": "1.1.4",
         "wpackagist-plugin/wp-multisite-feed": ">=1.0.3",
         "wpackagist-plugin/wp-piwik": ">=1.0.8",
+        "wpackagist-plugin/wp-idea-stream": "2.3.2",
         "wpackagist-plugin/buddypress": ">=2.5.3",
         "wpackagist-plugin/bp-groupblog": ">=1.8.12",
         "wpackagist-plugin/bp-mpo-activity-filter": ">=1.2",
@@ -276,7 +289,10 @@
         "wpackagist-plugin/invite-anyone": ">=1.3.11",
         "wpackagist-plugin/bbpress": ">=2.5.9",
         "wpackagist-plugin/gd-bbpress-attachments": "2.3.1",
+        "wpackagist-plugin/bp-emails-for-bbp": "0.1.0",
+        "wpackagist-plugin/bbpress-post-via-mail": "1.2.8",
         "cuny-academic-commons/bp-event-organiser": "dev-master",
+        "r-a-y/bp-hide-user": "dev-master",
         "civicrm/civicrm": ">=4.6.14",
         "wpackagist-plugin/civicrm-admin-utilities": ">=0.2.3",
         "wpackagist-plugin/civicrm-wp-member-sync": ">=0.2.7",

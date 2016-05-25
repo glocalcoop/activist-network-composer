@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "f836a08edef4f43970c7fa3ba3d2ed00",
-    "content-hash": "309582c47030611710884aa12f121fab",
+    "hash": "956c9409d2a1b4e223ef7e0d447ecffa",
+    "content-hash": "5fb30f814eaa3e9b7ca31fd899f4b5db",
     "packages": [
         {
             "name": "civicrm/civicrm",
@@ -277,6 +277,17 @@
             "type": "wordpress-muplugin"
         },
         {
+            "name": "r-a-y/bp-hide-user",
+            "version": "master",
+            "dist": {
+                "type": "zip",
+                "url": "https://github.com/r-a-y/bp-hide-user/archive/master.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "type": "wordpress-plugin"
+        },
+        {
             "name": "stuttter/wp-multi-network",
             "version": "master",
             "dist": {
@@ -385,6 +396,26 @@
             "homepage": "https://wordpress.org/plugins/bbpress/"
         },
         {
+            "name": "wpackagist-plugin/bbpress-post-via-mail",
+            "version": "1.2.8",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/bbpress-post-via-mail/",
+                "reference": "trunk"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/bbpress-post-via-mail.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/bbpress-post-via-mail/"
+        },
+        {
             "name": "wpackagist-plugin/blog-copier",
             "version": "1.0.7",
             "source": {
@@ -403,6 +434,26 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/blog-copier/"
+        },
+        {
+            "name": "wpackagist-plugin/bp-emails-for-bbp",
+            "version": "0.1.0",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/bp-emails-for-bbp/",
+                "reference": "tags/0.1.0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/bp-emails-for-bbp.0.1.0.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/bp-emails-for-bbp/"
         },
         {
             "name": "wpackagist-plugin/bp-groupblog",
@@ -1343,6 +1394,26 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/wp-email-login/"
+        },
+        {
+            "name": "wpackagist-plugin/wp-idea-stream",
+            "version": "2.3.2",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/wp-idea-stream/",
+                "reference": "tags/2.3.2"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/wp-idea-stream.2.3.2.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/wp-idea-stream/"
         },
         {
             "name": "wpackagist-plugin/wp-multisite-feed",
@@ -2613,6 +2684,7 @@
         "glocalcoop/handbook": 20,
         "glocalcoop/knowledge-base": 20,
         "cuny-academic-commons/bp-event-organiser": 20,
+        "r-a-y/bp-hide-user": 20,
         "stuttter/wp-multi-network": 20,
         "johnjamesjacoby/bp-multi-network": 20,
         "wp-shortcake/shortcake": 20,
