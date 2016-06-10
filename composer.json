@@ -125,11 +125,11 @@
             "type": "package",
             "package": {
                 "name": "civicrm/civicrm",
-                "version": "4.6.14",
+                "version": "4.6.18",
                 "type": "wordpress-plugin",
                 "dist": {
                     "type": "zip",
-                    "url": "https://download.civicrm.org/civicrm-4.6.14-wordpress.zip"
+                    "url": "https://download.civicrm.org/civicrm-4.6.18-wordpress.zip"
                 }
             }
         },
@@ -293,7 +293,7 @@
         "wpackagist-plugin/bbpress-post-via-mail": "1.2.8",
         "cuny-academic-commons/bp-event-organiser": "dev-master",
         "r-a-y/bp-hide-user": "dev-master",
-        "civicrm/civicrm": ">=4.6.14",
+        "civicrm/civicrm": ">=4.6.18",
         "wpackagist-plugin/civicrm-admin-utilities": ">=0.2.3",
         "wpackagist-plugin/civicrm-wp-member-sync": ">=0.2.7",
         "wpackagist-plugin/bp-groups-civicrm-sync": ">=0.3.1",
