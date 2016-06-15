@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "8a7c9db9703997cab1549575fc48849d",
-    "content-hash": "80c6622b608e8c223421eeaaaef471ef",
+    "hash": "5ba508b0f355898fd6286ab810cf77b1",
+    "content-hash": "fcb600e87cd109d87d39232a08192f37",
     "packages": [
         {
             "name": "civicrm/civicrm",
@@ -195,7 +195,7 @@
                 "shasum": null
             },
             "type": "wordpress-plugin",
-            "time": "2016-04-07 04:50:10"
+            "time": "2016-06-07 22:44:07"
         },
         {
             "name": "glocalcoop/anp-network-main",
@@ -212,7 +212,7 @@
                 "shasum": null
             },
             "type": "wordpress-theme",
-            "time": "2016-04-27 20:14:02"
+            "time": "2016-05-26 19:38:55"
         },
         {
             "name": "glocalcoop/anp-network-main-child",
@@ -313,7 +313,7 @@
                 "shasum": null
             },
             "type": "wordpress-plugin",
-            "time": "2016-04-04 16:58:52"
+            "time": "2016-06-07 16:05:27"
         },
         {
             "name": "wpackagist-plugin/admin-post-navigation",
@@ -836,6 +836,26 @@
             "homepage": "https://wordpress.org/plugins/event-organiser-posterboard/"
         },
         {
+            "name": "wpackagist-plugin/flexible-posts-widget",
+            "version": "3.5.0",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/flexible-posts-widget/",
+                "reference": "tags/3.5.0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/flexible-posts-widget.3.5.0.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/flexible-posts-widget/"
+        },
+        {
             "name": "wpackagist-plugin/gd-bbpress-attachments",
             "version": "2.3.1",
             "source": {
@@ -1077,15 +1097,15 @@
         },
         {
             "name": "wpackagist-plugin/nav-menu-roles",
-            "version": "1.8.1",
+            "version": "1.8.2",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/nav-menu-roles/",
-                "reference": "tags/1.8.1"
+                "reference": "tags/1.8.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/nav-menu-roles.1.8.1.zip",
+                "url": "https://downloads.wordpress.org/plugin/nav-menu-roles.1.8.2.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -2523,16 +2543,16 @@
         },
         {
             "name": "symfony/yaml",
-            "version": "v3.1.0",
+            "version": "v3.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/yaml.git",
-                "reference": "eca51b7b65eb9be6af88ad7cc91685f1556f5c9a"
+                "reference": "c5a7e7fc273c758b92b85dcb9c46149ccda89623"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/yaml/zipball/eca51b7b65eb9be6af88ad7cc91685f1556f5c9a",
-                "reference": "eca51b7b65eb9be6af88ad7cc91685f1556f5c9a",
+                "url": "https://api.github.com/repos/symfony/yaml/zipball/c5a7e7fc273c758b92b85dcb9c46149ccda89623",
+                "reference": "c5a7e7fc273c758b92b85dcb9c46149ccda89623",
                 "shasum": ""
             },
             "require": {
@@ -2568,7 +2588,7 @@
             ],
             "description": "Symfony Yaml Component",
             "homepage": "https://symfony.com",
-            "time": "2016-05-26 21:46:24"
+            "time": "2016-06-14 11:18:07"
         },
         {
             "name": "webmozart/assert",
