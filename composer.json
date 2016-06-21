@@ -266,13 +266,8 @@
         "wpackagist-plugin/simple-author-box": ">=1.5",
         "wpackagist-plugin/simply-show-ids": ">=1.3.3",
         "wpackagist-plugin/siteorigin-panels": ">=2.4.9",
-<<<<<<< HEAD
         "wpackagist-plugin/so-widgets-bundle": ">=1.6",
 	"wpackagist-plugin/widgets-for-siteorigin": "1.2.2",
-=======
-        "wpackagist-plugin/so-widgets-bundle": ">=1.5.11",
-        "wpackagist-plugin/widgets-for-siteorigin": "1.2.2",
->>>>>>> 09c25fc24a3e595e4f69836b007140f4c6bdc707
         "wpackagist-plugin/unconfirmed": ">=1.3.1",
         "wpackagist-plugin/user-switching": ">=1.0.9",
         "wpackagist-plugin/widget-css-classes": ">=1.3.0",
