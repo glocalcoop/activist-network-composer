@@ -278,6 +278,7 @@
         "wpackagist-plugin/wp-multisite-feed": ">=1.0.3",
         "wpackagist-plugin/wp-piwik": ">=1.0.9",
         "wpackagist-plugin/wp-idea-stream": "2.3.2",
+        "wpackagist-plugin/wp-video-lightbox": ">=1.7.9",
         "wpackagist-plugin/buddypress": ">=2.5.3",
         "wpackagist-plugin/bp-groupblog": ">=1.8.12",
         "wpackagist-plugin/bp-mpo-activity-filter": ">=1.2",
