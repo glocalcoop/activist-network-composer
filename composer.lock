@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "509e9a085804b630869a9e0bc66be81e",
-    "content-hash": "d286eebd5c196560a50a298634c4610c",
+    "hash": "bd7e0e410ad920398bf0c4378b1e8089",
+    "content-hash": "af750d936b6ac0383322a84dbef50a2b",
     "packages": [
         {
             "name": "civicrm/civicrm",
@@ -1494,6 +1494,26 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/wp-team-list/"
+        },
+        {
+            "name": "wpackagist-plugin/wp-video-lightbox",
+            "version": "1.7.9",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/wp-video-lightbox/",
+                "reference": "trunk"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/wp-video-lightbox.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/wp-video-lightbox/"
         },
         {
             "name": "wpackagist-theme/twentysixteen",
