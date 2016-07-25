@@ -142,6 +142,11 @@
                 "dist": {
                     "type": "zip",
                     "url": "https://github.com/cuny-academic-commons/bp-event-organiser/archive/master.zip"
+                },
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/cuny-academic-commons/bp-event-organiser.git",
+                    "reference": "master"
                 }
             }
         },
@@ -154,6 +159,11 @@
                 "dist": {
                     "type": "zip",
                     "url": "https://github.com/r-a-y/bp-hide-user/archive/master.zip"
+                },
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/r-a-y/bp-hide-user.git",
+                    "reference": "master"
                 }
             }
         },
@@ -166,6 +176,11 @@
                 "dist": {
                     "type": "zip",
                     "url": "https://github.com/stuttter/wp-multi-network/archive/master.zip"
+                },
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/stuttter/wp-multi-network.git",
+                    "reference": "master"
                 }
             }
         },
@@ -178,6 +193,11 @@
                 "dist": {
                     "type": "zip",
                     "url": "https://github.com/johnjamesjacoby/bp-multi-network/archive/master.zip"
+                },
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/johnjamesjacoby/bp-multi-network.git",
+                    "reference": "master"
                 }
             }
         },

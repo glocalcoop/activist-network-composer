@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "287f0d8efa0f2ecad322759c34b923ac",
-    "content-hash": "209a257e6017048e1a3e94db8a2be766",
+    "hash": "342d8584102cbb595a3e9a78386c9f08",
+    "content-hash": "c41e6846ccbab39845119df9b67131ae",
     "packages": [
         {
             "name": "civicrm/civicrm",
@@ -123,13 +123,19 @@
         {
             "name": "cuny-academic-commons/bp-event-organiser",
             "version": "master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/cuny-academic-commons/bp-event-organiser.git",
+                "reference": "master"
+            },
             "dist": {
                 "type": "zip",
                 "url": "https://github.com/cuny-academic-commons/bp-event-organiser/archive/master.zip",
-                "reference": null,
+                "reference": "master",
                 "shasum": null
             },
-            "type": "wordpress-plugin"
+            "type": "wordpress-plugin",
+            "time": "2016-04-21 17:44:54"
         },
         {
             "name": "glocalcoop/anp-buddypress-customization",
@@ -270,35 +276,53 @@
         {
             "name": "johnjamesjacoby/bp-multi-network",
             "version": "master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/johnjamesjacoby/bp-multi-network.git",
+                "reference": "master"
+            },
             "dist": {
                 "type": "zip",
                 "url": "https://github.com/johnjamesjacoby/bp-multi-network/archive/master.zip",
-                "reference": null,
+                "reference": "master",
                 "shasum": null
             },
-            "type": "wordpress-muplugin"
+            "type": "wordpress-muplugin",
+            "time": "2015-09-17 21:46:16"
         },
         {
             "name": "r-a-y/bp-hide-user",
             "version": "master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/r-a-y/bp-hide-user.git",
+                "reference": "master"
+            },
             "dist": {
                 "type": "zip",
                 "url": "https://github.com/r-a-y/bp-hide-user/archive/master.zip",
-                "reference": null,
+                "reference": "master",
                 "shasum": null
             },
-            "type": "wordpress-plugin"
+            "type": "wordpress-plugin",
+            "time": "2015-12-03 02:41:01"
         },
         {
             "name": "stuttter/wp-multi-network",
             "version": "master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/stuttter/wp-multi-network.git",
+                "reference": "master"
+            },
             "dist": {
                 "type": "zip",
                 "url": "https://github.com/stuttter/wp-multi-network/archive/master.zip",
-                "reference": null,
+                "reference": "master",
                 "shasum": null
             },
-            "type": "wordpress-plugin"
+            "type": "wordpress-plugin",
+            "time": "2016-07-12 16:31:37"
         },
         {
             "name": "wp-shortcake/shortcake",
@@ -759,15 +783,15 @@
         },
         {
             "name": "wpackagist-plugin/event-organiser",
-            "version": "3.1.1",
+            "version": "3.1.3",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/event-organiser/",
-                "reference": "tags/3.1.1"
+                "reference": "tags/3.1.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/event-organiser.3.1.1.zip",
+                "url": "https://downloads.wordpress.org/plugin/event-organiser.3.1.3.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -1119,15 +1143,15 @@
         },
         {
             "name": "wpackagist-plugin/polylang-theme-strings",
-            "version": "3.2",
+            "version": "3.2.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/polylang-theme-strings/",
-                "reference": "tags/3.2"
+                "reference": "tags/3.2.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/polylang-theme-strings.3.2.zip",
+                "url": "https://downloads.wordpress.org/plugin/polylang-theme-strings.3.2.1.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -1239,15 +1263,15 @@
         },
         {
             "name": "wpackagist-plugin/so-widgets-bundle",
-            "version": "1.6.3",
+            "version": "1.6.4",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/so-widgets-bundle/",
-                "reference": "tags/1.6.3"
+                "reference": "tags/1.6.4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/so-widgets-bundle.1.6.3.zip",
+                "url": "https://downloads.wordpress.org/plugin/so-widgets-bundle.1.6.4.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -2046,16 +2070,16 @@
         },
         {
             "name": "phpunit/phpunit",
-            "version": "4.8.26",
+            "version": "4.8.27",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/phpunit.git",
-                "reference": "fc1d8cd5b5de11625979125c5639347896ac2c74"
+                "reference": "c062dddcb68e44b563f66ee319ddae2b5a322a90"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/fc1d8cd5b5de11625979125c5639347896ac2c74",
-                "reference": "fc1d8cd5b5de11625979125c5639347896ac2c74",
+                "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/c062dddcb68e44b563f66ee319ddae2b5a322a90",
+                "reference": "c062dddcb68e44b563f66ee319ddae2b5a322a90",
                 "shasum": ""
             },
             "require": {
@@ -2114,7 +2138,7 @@
                 "testing",
                 "xunit"
             ],
-            "time": "2016-05-17 03:09:28"
+            "time": "2016-07-21 06:48:14"
         },
         {
             "name": "phpunit/phpunit-mock-objects",
