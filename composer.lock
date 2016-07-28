@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "342d8584102cbb595a3e9a78386c9f08",
-    "content-hash": "c41e6846ccbab39845119df9b67131ae",
+    "hash": "7d9b530d130e16c7753f580fa69b9079",
+    "content-hash": "53dca40298e36787b593338605fa4b57",
     "packages": [
         {
             "name": "civicrm/civicrm",
@@ -186,7 +186,7 @@
                 "shasum": null
             },
             "type": "wordpress-plugin",
-            "time": "2016-03-08 03:24:58"
+            "time": "2016-07-27 19:55:14"
         },
         {
             "name": "glocalcoop/anp-network-content",
@@ -203,7 +203,7 @@
                 "shasum": null
             },
             "type": "wordpress-plugin",
-            "time": "2016-04-07 04:50:10"
+            "time": "2016-06-28 20:38:40"
         },
         {
             "name": "glocalcoop/anp-network-main",
@@ -220,7 +220,7 @@
                 "shasum": null
             },
             "type": "wordpress-theme",
-            "time": "2016-04-27 20:14:02"
+            "time": "2016-07-25 20:52:50"
         },
         {
             "name": "glocalcoop/anp-network-main-child",
@@ -237,7 +237,7 @@
                 "shasum": null
             },
             "type": "wordpress-theme",
-            "time": "2016-04-22 19:57:27"
+            "time": "2016-07-11 19:34:16"
         },
         {
             "name": "glocalcoop/handbook",
@@ -271,7 +271,7 @@
                 "shasum": null
             },
             "type": "wordpress-plugin",
-            "time": "2016-04-08 18:08:20"
+            "time": "2016-07-25 18:42:47"
         },
         {
             "name": "johnjamesjacoby/bp-multi-network",
@@ -339,7 +339,7 @@
                 "shasum": null
             },
             "type": "wordpress-plugin",
-            "time": "2016-04-04 16:58:52"
+            "time": "2016-07-05 23:21:59"
         },
         {
             "name": "wpackagist-plugin/admin-post-navigation",
@@ -622,6 +622,66 @@
             "homepage": "https://wordpress.org/plugins/buddypress-xprofile-custom-fields-type/"
         },
         {
+            "name": "wpackagist-plugin/caldera-form-metabox",
+            "version": "2.1.2",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/caldera-form-metabox/",
+                "reference": "tags/2.1.2"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/caldera-form-metabox.2.1.2.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/caldera-form-metabox/"
+        },
+        {
+            "name": "wpackagist-plugin/caldera-forms",
+            "version": "1.3.5.3",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/caldera-forms/",
+                "reference": "tags/1.3.5.3"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/caldera-forms.1.3.5.3.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/caldera-forms/"
+        },
+        {
+            "name": "wpackagist-plugin/caldera-forms-run-action",
+            "version": "1.0.1",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/caldera-forms-run-action/",
+                "reference": "tags/1.0.1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/caldera-forms-run-action.1.0.1.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/caldera-forms-run-action/"
+        },
+        {
             "name": "wpackagist-plugin/civicrm-admin-utilities",
             "version": "0.2.3",
             "source": {
@@ -720,6 +780,26 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/codepress-admin-columns/"
+        },
+        {
+            "name": "wpackagist-plugin/conditional-fail-for-caldera-forms",
+            "version": "1.0.0",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/conditional-fail-for-caldera-forms/",
+                "reference": "trunk"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/conditional-fail-for-caldera-forms.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/conditional-fail-for-caldera-forms/"
         },
         {
             "name": "wpackagist-plugin/custom-contact-forms",
@@ -1162,6 +1242,26 @@
             "homepage": "https://wordpress.org/plugins/polylang-theme-strings/"
         },
         {
+            "name": "wpackagist-plugin/post-type-archive-links",
+            "version": "1.3.1",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/post-type-archive-links/",
+                "reference": "tags/1.3.1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/post-type-archive-links.1.3.1.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/post-type-archive-links/"
+        },
+        {
             "name": "wpackagist-plugin/rss-importer",
             "version": "0.2",
             "source": {
@@ -1322,6 +1422,26 @@
             "homepage": "https://wordpress.org/plugins/user-switching/"
         },
         {
+            "name": "wpackagist-plugin/verify-email-for-caldera-forms",
+            "version": "1.0.1",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/verify-email-for-caldera-forms/",
+                "reference": "tags/1.0.1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/verify-email-for-caldera-forms.1.0.1.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/verify-email-for-caldera-forms/"
+        },
+        {
             "name": "wpackagist-plugin/widget-css-classes",
             "version": "1.3.0",
             "source": {
@@ -1463,15 +1583,15 @@
         },
         {
             "name": "wpackagist-plugin/wp-pgp-encrypted-emails",
-            "version": "0.4.2",
+            "version": "0.4.4",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wp-pgp-encrypted-emails/",
-                "reference": "tags/0.4.2"
+                "reference": "tags/0.4.4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wp-pgp-encrypted-emails.0.4.2.zip",
+                "url": "https://downloads.wordpress.org/plugin/wp-pgp-encrypted-emails.0.4.4.zip",
                 "reference": null,
                 "shasum": null
             },
