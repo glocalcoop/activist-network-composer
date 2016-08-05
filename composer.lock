@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "5b4f7d9826c2218cf4d0009da831e600",
-    "content-hash": "202f9c7cfc39c65c70f0d4c72de84fb8",
+    "hash": "62f17e3072b6cfe045e747b831d706e7",
+    "content-hash": "720540c35e9100ff453cc85f8bb522b9",
     "packages": [
         {
             "name": "civicrm/civicrm",
@@ -643,15 +643,15 @@
         },
         {
             "name": "wpackagist-plugin/caldera-forms",
-            "version": "1.3.5.3",
+            "version": "1.4.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/caldera-forms/",
-                "reference": "tags/1.3.5.3"
+                "reference": "tags/1.4.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/caldera-forms.1.3.5.3.zip",
+                "url": "https://downloads.wordpress.org/plugin/caldera-forms.1.4.1.zip",
                 "reference": null,
                 "shasum": null
             },
