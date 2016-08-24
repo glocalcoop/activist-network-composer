@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "74f7195309742a08eaa526061f86702e",
-    "content-hash": "b8d4fc2ffcb9003b7f7e78670396e32b",
+    "hash": "2e96ee81774841b6f161f8b37a72a028",
+    "content-hash": "b600d4cbfcacac48ac499dd5e14eb289",
     "packages": [
         {
             "name": "anp/anp-core-functionality",
@@ -22,7 +22,7 @@
                 "shasum": null
             },
             "type": "wordpress-plugin",
-            "time": "2016-08-21 21:42:24"
+            "time": "2016-08-22 23:28:14"
         },
         {
             "name": "civicrm/civicrm",
@@ -203,7 +203,7 @@
                 "shasum": null
             },
             "type": "wordpress-plugin",
-            "time": "2016-08-15 18:42:25"
+            "time": "2016-07-27 19:55:14"
         },
         {
             "name": "glocalcoop/anp-network-content",
@@ -356,7 +356,7 @@
                 "shasum": null
             },
             "type": "wordpress-plugin",
-            "time": "2016-04-04 16:58:52"
+            "time": "2016-07-05 23:21:59"
         },
         {
             "name": "wpackagist-plugin/admin-post-navigation",
@@ -1480,15 +1480,15 @@
         },
         {
             "name": "wpackagist-plugin/widgets-for-siteorigin",
-            "version": "1.2.3",
+            "version": "1.2.4",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/widgets-for-siteorigin/",
-                "reference": "tags/1.2.3"
+                "reference": "tags/1.2.4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/widgets-for-siteorigin.1.2.3.zip",
+                "url": "https://downloads.wordpress.org/plugin/widgets-for-siteorigin.1.2.4.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -1660,7 +1660,7 @@
         },
         {
             "name": "wpackagist-plugin/wp-video-lightbox",
-            "version": "1.8.3",
+            "version": "1.8.4",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wp-video-lightbox/",
@@ -1677,6 +1677,26 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/wp-video-lightbox/"
+        },
+        {
+            "name": "wpackagist-theme/edin",
+            "version": "1.2.6",
+            "source": {
+                "type": "svn",
+                "url": "https://themes.svn.wordpress.org/edin/",
+                "reference": "1.2.6"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/theme/edin.1.2.6.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-theme",
+            "homepage": "https://wordpress.org/themes/edin/"
         },
         {
             "name": "wpackagist-theme/quark",
@@ -1697,6 +1717,26 @@
             },
             "type": "wordpress-theme",
             "homepage": "https://wordpress.org/themes/quark/"
+        },
+        {
+            "name": "wpackagist-theme/siteorigin-north",
+            "version": "1.2.4",
+            "source": {
+                "type": "svn",
+                "url": "https://themes.svn.wordpress.org/siteorigin-north/",
+                "reference": "1.2.4"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/theme/siteorigin-north.1.2.4.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-theme",
+            "homepage": "https://wordpress.org/themes/siteorigin-north/"
         },
         {
             "name": "wpackagist-theme/twentysixteen",
