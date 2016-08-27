@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "2e96ee81774841b6f161f8b37a72a028",
-    "content-hash": "b600d4cbfcacac48ac499dd5e14eb289",
+    "hash": "cec436b49c7f1e89057989d522d41af6",
+    "content-hash": "879c7a1f7683acd65e17537bb207068d",
     "packages": [
         {
             "name": "anp/anp-core-functionality",
@@ -637,26 +637,6 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/buddypress-xprofile-custom-fields-type/"
-        },
-        {
-            "name": "wpackagist-plugin/caldera-form-metabox",
-            "version": "2.1.2",
-            "source": {
-                "type": "svn",
-                "url": "https://plugins.svn.wordpress.org/caldera-form-metabox/",
-                "reference": "tags/2.1.2"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/caldera-form-metabox.2.1.2.zip",
-                "reference": null,
-                "shasum": null
-            },
-            "require": {
-                "composer/installers": "~1.0"
-            },
-            "type": "wordpress-plugin",
-            "homepage": "https://wordpress.org/plugins/caldera-form-metabox/"
         },
         {
             "name": "wpackagist-plugin/caldera-forms",
