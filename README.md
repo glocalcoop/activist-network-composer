@@ -25,6 +25,9 @@ TODO
 
 == Changelog ==
 
+= 1.2 - Aug 27, 2016 =
+* [Feature #1530] - Adding MailPoet for newsletter and subscription management
+
 = 1.1.2 - Aug 12, 2016 =
 * [Feature #1376] - Adding first few pre-built themes
 

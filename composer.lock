@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "cec436b49c7f1e89057989d522d41af6",
-    "content-hash": "879c7a1f7683acd65e17537bb207068d",
+    "hash": "4e18034f8004fae92b740ead9de41cb4",
+    "content-hash": "999ef585eaaad642f82c6b3edbc8c888",
     "packages": [
         {
             "name": "anp/anp-core-functionality",
@@ -1657,6 +1657,26 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/wp-video-lightbox/"
+        },
+        {
+            "name": "wpackagist-plugin/wysija-newsletters",
+            "version": "2.7.5",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/wysija-newsletters/",
+                "reference": "tags/2.7.5"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/wysija-newsletters.2.7.5.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/wysija-newsletters/"
         },
         {
             "name": "wpackagist-theme/edin",
