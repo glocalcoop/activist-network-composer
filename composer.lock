@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "362ba9d67ee6ccf010c46616189f1869",
-    "content-hash": "edeace53cef7d28f3070a765f143f1d0",
+    "hash": "206daa945ddb48894e15886b8f8956a2",
+    "content-hash": "bd7d48c262ac435a0cb9fa1db7d464d8",
     "packages": [
         {
             "name": "anp/anp-core-functionality",
@@ -1725,15 +1725,15 @@
         },
         {
             "name": "wpackagist-theme/siteorigin-north",
-            "version": "1.2.4",
+            "version": "1.2.5",
             "source": {
                 "type": "svn",
                 "url": "https://themes.svn.wordpress.org/siteorigin-north/",
-                "reference": "1.2.4"
+                "reference": "1.2.5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/siteorigin-north.1.2.4.zip",
+                "url": "https://downloads.wordpress.org/theme/siteorigin-north.1.2.5.zip",
                 "reference": null,
                 "shasum": null
             },

@@ -355,7 +355,7 @@
         "wpackagist-theme/twentysixteen": ">=1.2",
     	"wpackagist-theme/vantage": ">=1.5",
     	"wpackagist-theme/edin": "1.2.6",
-    	"wpackagist-theme/siteorigin-north": "1.2.4",
+    	"wpackagist-theme/siteorigin-north": "1.2.5",
         "wpackagist-theme/quark": ">=1.3.3"
     },
     "require-dev": {
