@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "65b922ca7b546dfe23dd74d8a9fa7e77",
-    "content-hash": "163dc7a05120c169058284222a638076",
+    "hash": "6eb0bb32caf339e8431b344ad7b38c9c",
+    "content-hash": "7df27e96bc4b9767101330ad8dad0761",
     "packages": [
         {
             "name": "anp/anp-core-functionality",
@@ -742,26 +742,6 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/codepress-admin-columns/"
-        },
-        {
-            "name": "wpackagist-plugin/custom-contact-forms",
-            "version": "7.8.3",
-            "source": {
-                "type": "svn",
-                "url": "https://plugins.svn.wordpress.org/custom-contact-forms/",
-                "reference": "tags/7.8.3"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/custom-contact-forms.7.8.3.zip",
-                "reference": null,
-                "shasum": null
-            },
-            "require": {
-                "composer/installers": "~1.0"
-            },
-            "type": "wordpress-plugin",
-            "homepage": "https://wordpress.org/plugins/custom-contact-forms/"
         },
         {
             "name": "wpackagist-plugin/custom-profile-filters-for-buddypress",
