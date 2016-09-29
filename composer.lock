@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "206daa945ddb48894e15886b8f8956a2",
-    "content-hash": "bd7d48c262ac435a0cb9fa1db7d464d8",
+    "hash": "65b922ca7b546dfe23dd74d8a9fa7e77",
+    "content-hash": "163dc7a05120c169058284222a638076",
     "packages": [
         {
             "name": "anp/anp-core-functionality",
@@ -424,26 +424,6 @@
             "homepage": "https://wordpress.org/plugins/bbpress/"
         },
         {
-            "name": "wpackagist-plugin/bbpress-post-via-mail",
-            "version": "1.2.8",
-            "source": {
-                "type": "svn",
-                "url": "https://plugins.svn.wordpress.org/bbpress-post-via-mail/",
-                "reference": "trunk"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/bbpress-post-via-mail.zip",
-                "reference": null,
-                "shasum": null
-            },
-            "require": {
-                "composer/installers": "~1.0"
-            },
-            "type": "wordpress-plugin",
-            "homepage": "https://wordpress.org/plugins/bbpress-post-via-mail/"
-        },
-        {
             "name": "wpackagist-plugin/blog-copier",
             "version": "1.0.7",
             "source": {
@@ -664,26 +644,6 @@
             "homepage": "https://wordpress.org/plugins/caldera-forms/"
         },
         {
-            "name": "wpackagist-plugin/caldera-forms-run-action",
-            "version": "1.0.1",
-            "source": {
-                "type": "svn",
-                "url": "https://plugins.svn.wordpress.org/caldera-forms-run-action/",
-                "reference": "tags/1.0.1"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/caldera-forms-run-action.1.0.1.zip",
-                "reference": null,
-                "shasum": null
-            },
-            "require": {
-                "composer/installers": "~1.0"
-            },
-            "type": "wordpress-plugin",
-            "homepage": "https://wordpress.org/plugins/caldera-forms-run-action/"
-        },
-        {
             "name": "wpackagist-plugin/civicrm-admin-utilities",
             "version": "0.2.3",
             "source": {
@@ -782,26 +742,6 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/codepress-admin-columns/"
-        },
-        {
-            "name": "wpackagist-plugin/conditional-fail-for-caldera-forms",
-            "version": "1.0.0",
-            "source": {
-                "type": "svn",
-                "url": "https://plugins.svn.wordpress.org/conditional-fail-for-caldera-forms/",
-                "reference": "trunk"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/conditional-fail-for-caldera-forms.zip",
-                "reference": null,
-                "shasum": null
-            },
-            "require": {
-                "composer/installers": "~1.0"
-            },
-            "type": "wordpress-plugin",
-            "homepage": "https://wordpress.org/plugins/conditional-fail-for-caldera-forms/"
         },
         {
             "name": "wpackagist-plugin/custom-contact-forms",
@@ -1064,26 +1004,6 @@
             "homepage": "https://wordpress.org/plugins/join-my-multisite/"
         },
         {
-            "name": "wpackagist-plugin/kirki",
-            "version": "2.3.6",
-            "source": {
-                "type": "svn",
-                "url": "https://plugins.svn.wordpress.org/kirki/",
-                "reference": "tags/2.3.6"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/kirki.2.3.6.zip",
-                "reference": null,
-                "shasum": null
-            },
-            "require": {
-                "composer/installers": "~1.0"
-            },
-            "type": "wordpress-plugin",
-            "homepage": "https://wordpress.org/plugins/kirki/"
-        },
-        {
             "name": "wpackagist-plugin/members",
             "version": "1.1.2",
             "source": {
@@ -1284,26 +1204,6 @@
             "homepage": "https://wordpress.org/plugins/rss-importer/"
         },
         {
-            "name": "wpackagist-plugin/shortcake-bakery",
-            "version": "0.1.0",
-            "source": {
-                "type": "svn",
-                "url": "https://plugins.svn.wordpress.org/shortcake-bakery/",
-                "reference": "tags/0.1.0"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/shortcake-bakery.0.1.0.zip",
-                "reference": null,
-                "shasum": null
-            },
-            "require": {
-                "composer/installers": "~1.0"
-            },
-            "type": "wordpress-plugin",
-            "homepage": "https://wordpress.org/plugins/shortcake-bakery/"
-        },
-        {
             "name": "wpackagist-plugin/simple-author-box",
             "version": "1.6",
             "source": {
@@ -1384,26 +1284,6 @@
             "homepage": "https://wordpress.org/plugins/so-widgets-bundle/"
         },
         {
-            "name": "wpackagist-plugin/unconfirmed",
-            "version": "1.3.1",
-            "source": {
-                "type": "svn",
-                "url": "https://plugins.svn.wordpress.org/unconfirmed/",
-                "reference": "tags/1.3.1"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/unconfirmed.1.3.1.zip",
-                "reference": null,
-                "shasum": null
-            },
-            "require": {
-                "composer/installers": "~1.0"
-            },
-            "type": "wordpress-plugin",
-            "homepage": "https://wordpress.org/plugins/unconfirmed/"
-        },
-        {
             "name": "wpackagist-plugin/user-switching",
             "version": "1.0.9",
             "source": {
@@ -1422,26 +1302,6 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/user-switching/"
-        },
-        {
-            "name": "wpackagist-plugin/verify-email-for-caldera-forms",
-            "version": "1.0.1",
-            "source": {
-                "type": "svn",
-                "url": "https://plugins.svn.wordpress.org/verify-email-for-caldera-forms/",
-                "reference": "tags/1.0.1"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/verify-email-for-caldera-forms.1.0.1.zip",
-                "reference": null,
-                "shasum": null
-            },
-            "require": {
-                "composer/installers": "~1.0"
-            },
-            "type": "wordpress-plugin",
-            "homepage": "https://wordpress.org/plugins/verify-email-for-caldera-forms/"
         },
         {
             "name": "wpackagist-plugin/widget-css-classes",
@@ -1524,66 +1384,6 @@
             "homepage": "https://wordpress.org/plugins/wordpress-mu-domain-mapping/"
         },
         {
-            "name": "wpackagist-plugin/wp-email-login",
-            "version": "4.6.4",
-            "source": {
-                "type": "svn",
-                "url": "https://plugins.svn.wordpress.org/wp-email-login/",
-                "reference": "trunk"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wp-email-login.zip",
-                "reference": null,
-                "shasum": null
-            },
-            "require": {
-                "composer/installers": "~1.0"
-            },
-            "type": "wordpress-plugin",
-            "homepage": "https://wordpress.org/plugins/wp-email-login/"
-        },
-        {
-            "name": "wpackagist-plugin/wp-idea-stream",
-            "version": "2.3.2",
-            "source": {
-                "type": "svn",
-                "url": "https://plugins.svn.wordpress.org/wp-idea-stream/",
-                "reference": "tags/2.3.2"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wp-idea-stream.2.3.2.zip",
-                "reference": null,
-                "shasum": null
-            },
-            "require": {
-                "composer/installers": "~1.0"
-            },
-            "type": "wordpress-plugin",
-            "homepage": "https://wordpress.org/plugins/wp-idea-stream/"
-        },
-        {
-            "name": "wpackagist-plugin/wp-multisite-feed",
-            "version": "1.0.3",
-            "source": {
-                "type": "svn",
-                "url": "https://plugins.svn.wordpress.org/wp-multisite-feed/",
-                "reference": "tags/1.0.3"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wp-multisite-feed.1.0.3.zip",
-                "reference": null,
-                "shasum": null
-            },
-            "require": {
-                "composer/installers": "~1.0"
-            },
-            "type": "wordpress-plugin",
-            "homepage": "https://wordpress.org/plugins/wp-multisite-feed/"
-        },
-        {
             "name": "wpackagist-plugin/wp-pgp-encrypted-emails",
             "version": "0.4.4",
             "source": {
@@ -1622,26 +1422,6 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/wp-piwik/"
-        },
-        {
-            "name": "wpackagist-plugin/wp-team-list",
-            "version": "2.0.0",
-            "source": {
-                "type": "svn",
-                "url": "https://plugins.svn.wordpress.org/wp-team-list/",
-                "reference": "tags/2.0.0"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wp-team-list.2.0.0.zip",
-                "reference": null,
-                "shasum": null
-            },
-            "require": {
-                "composer/installers": "~1.0"
-            },
-            "type": "wordpress-plugin",
-            "homepage": "https://wordpress.org/plugins/wp-team-list/"
         },
         {
             "name": "wpackagist-plugin/wp-video-lightbox",
