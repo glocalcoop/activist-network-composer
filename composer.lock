@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "6eb0bb32caf339e8431b344ad7b38c9c",
-    "content-hash": "7df27e96bc4b9767101330ad8dad0761",
+    "hash": "5e589b7e2b8f7f18590a6bdf72411d37",
+    "content-hash": "b1b5a6556994715d2323b8fedf103a96",
     "packages": [
         {
             "name": "anp/anp-core-functionality",
@@ -311,6 +311,23 @@
             },
             "type": "wordpress-muplugin",
             "time": "2015-09-17 21:46:16"
+        },
+        {
+            "name": "mecachisenros/caldera-forms-civicrm",
+            "version": "master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/mecachisenros/caldera-forms-civicrm.git",
+                "reference": "master"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://github.com/mecachisenros/caldera-forms-civicrm/archive/master.zip",
+                "reference": "master",
+                "shasum": null
+            },
+            "type": "wordpress-plugin",
+            "time": "2016-09-22 15:23:47"
         },
         {
             "name": "r-a-y/bp-hide-user",
@@ -2761,6 +2778,7 @@
         "glocalcoop/knowledge-base": 20,
         "cuny-academic-commons/bp-event-organiser": 20,
         "r-a-y/bp-hide-user": 20,
+        "mecachisenros/caldera-forms-civicrm": 20,
         "stuttter/wp-multi-network": 20,
         "johnjamesjacoby/bp-multi-network": 20,
         "wp-shortcake/shortcake": 20,

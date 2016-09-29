@@ -133,6 +133,23 @@
                 }
             }
         },
+       {
+            "type": "package",
+            "package": {
+                "name": "mecachisenros/caldera-forms-civicrm",
+                "version": "master",
+                "type": "wordpress-plugin",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/mecachisenros/caldera-forms-civicrm/archive/master.zip"
+                },
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mecachisenros/caldera-forms-civicrm.git",
+                    "reference": "master"
+                }
+            }
+        },
         {
             "type": "package",
             "package": {
@@ -333,6 +350,7 @@
         "wpackagist-plugin/civicrm-wp-member-sync": ">=0.3",
         "wpackagist-plugin/bp-groups-civicrm-sync": ">=0.3.2",
         "wpackagist-plugin/civicrm-contribution-page-widget": ">=0.1",
+        "mecachisenros/caldera-forms-civicrm": "dev-master",
         "stuttter/wp-multi-network": "dev-master",
         "johnjamesjacoby/bp-multi-network": "dev-master",
         "wpackagist-plugin/google-docs-shortcode": ">=0.4",
