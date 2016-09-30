@@ -25,6 +25,10 @@ TODO
 
 == Changelog ==
 
+= 1.3 - Sept 29, 2016 =
+* [Feature #1561] - CiviCRM Event Organizer Events Sync
+* [Feature #1605] - Caldera Forms CiviCRM Integration
+
 = 1.2 - Aug 27, 2016 =
 * [Feature #1530] - Adding MailPoet for newsletter and subscription management
 

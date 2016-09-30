@@ -150,6 +150,23 @@
                 }
             }
         },
+               {
+            "type": "package",
+            "package": {
+                "name": "christianwach/civicrm-event-organiser",
+                "version": "master",
+                "type": "wordpress-plugin",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/christianwach/civicrm-event-organiser/archive/master.zip"
+                },
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/christianwach/civicrm-event-organiser.git",
+                    "reference": "master"
+                }
+            }
+        },
         {
             "type": "package",
             "package": {
@@ -351,6 +368,8 @@
         "wpackagist-plugin/bp-groups-civicrm-sync": ">=0.3.2",
         "wpackagist-plugin/civicrm-contribution-page-widget": ">=0.1",
         "mecachisenros/caldera-forms-civicrm": "dev-master",
+        "christianwach/civicrm-event-organiser": "dev-master",
+        "wpackagist-plugin/radio-buttons-for-taxonomies": ">=1.7.7",
         "stuttter/wp-multi-network": "dev-master",
         "johnjamesjacoby/bp-multi-network": "dev-master",
         "wpackagist-plugin/google-docs-shortcode": ">=0.4",

@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "5e589b7e2b8f7f18590a6bdf72411d37",
-    "content-hash": "b1b5a6556994715d2323b8fedf103a96",
+    "hash": "ef2a1c56ccbc335d9e9980e049be1c0a",
+    "content-hash": "e51a271655c776d2a77f57905f58d43a",
     "packages": [
         {
             "name": "anp/anp-core-functionality",
@@ -23,6 +23,23 @@
             },
             "type": "wordpress-plugin",
             "time": "2016-08-22 23:28:14"
+        },
+        {
+            "name": "christianwach/civicrm-event-organiser",
+            "version": "master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/christianwach/civicrm-event-organiser.git",
+                "reference": "master"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://github.com/christianwach/civicrm-event-organiser/archive/master.zip",
+                "reference": "master",
+                "shasum": null
+            },
+            "type": "wordpress-plugin",
+            "time": "2016-09-13 13:14:53"
         },
         {
             "name": "civicrm/civicrm",
@@ -1179,6 +1196,26 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/post-type-archive-links/"
+        },
+        {
+            "name": "wpackagist-plugin/radio-buttons-for-taxonomies",
+            "version": "1.7.7",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/radio-buttons-for-taxonomies/",
+                "reference": "tags/1.7.7"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/radio-buttons-for-taxonomies.1.7.7.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/radio-buttons-for-taxonomies/"
         },
         {
             "name": "wpackagist-plugin/rss-importer",
@@ -2779,6 +2816,7 @@
         "cuny-academic-commons/bp-event-organiser": 20,
         "r-a-y/bp-hide-user": 20,
         "mecachisenros/caldera-forms-civicrm": 20,
+        "christianwach/civicrm-event-organiser": 20,
         "stuttter/wp-multi-network": 20,
         "johnjamesjacoby/bp-multi-network": 20,
         "wp-shortcake/shortcake": 20,
