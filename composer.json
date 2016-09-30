@@ -381,7 +381,11 @@
     	"wpackagist-theme/vantage": ">=1.5",
     	"wpackagist-theme/edin": "1.2.6",
     	"wpackagist-theme/siteorigin-north": "1.2.5",
-        "wpackagist-theme/quark": ">=1.3.3"
+        "wpackagist-theme/quark": ">=1.3.3",
+        "wpackagist-theme/gateway": ">=1.3.1",
+        "wpackagist-theme/motif": ">=1.0.11",
+        "wpackagist-theme/goran": ">=1.2.5",
+        "wpackagist-theme/sequential": ">=1.1.7"
     },
     "require-dev": {
         "wpackagist-plugin/developer": ">=1.2.5",

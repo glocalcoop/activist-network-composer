@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "ef2a1c56ccbc335d9e9980e049be1c0a",
-    "content-hash": "e51a271655c776d2a77f57905f58d43a",
+    "hash": "14c121db2cf186f5a97d21590e25789c",
+    "content-hash": "8353ebe88798ade985c08535ba545dd2",
     "packages": [
         {
             "name": "anp/anp-core-functionality",
@@ -1518,6 +1518,66 @@
             "homepage": "https://wordpress.org/themes/edin/"
         },
         {
+            "name": "wpackagist-theme/gateway",
+            "version": "1.3.1",
+            "source": {
+                "type": "svn",
+                "url": "https://themes.svn.wordpress.org/gateway/",
+                "reference": "1.3.1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/theme/gateway.1.3.1.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-theme",
+            "homepage": "https://wordpress.org/themes/gateway/"
+        },
+        {
+            "name": "wpackagist-theme/goran",
+            "version": "1.2.5",
+            "source": {
+                "type": "svn",
+                "url": "https://themes.svn.wordpress.org/goran/",
+                "reference": "1.2.5"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/theme/goran.1.2.5.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-theme",
+            "homepage": "https://wordpress.org/themes/goran/"
+        },
+        {
+            "name": "wpackagist-theme/motif",
+            "version": "1.0.11",
+            "source": {
+                "type": "svn",
+                "url": "https://themes.svn.wordpress.org/motif/",
+                "reference": "1.0.11"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/theme/motif.1.0.11.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-theme",
+            "homepage": "https://wordpress.org/themes/motif/"
+        },
+        {
             "name": "wpackagist-theme/quark",
             "version": "1.3.3",
             "source": {
@@ -1536,6 +1596,26 @@
             },
             "type": "wordpress-theme",
             "homepage": "https://wordpress.org/themes/quark/"
+        },
+        {
+            "name": "wpackagist-theme/sequential",
+            "version": "1.1.7",
+            "source": {
+                "type": "svn",
+                "url": "https://themes.svn.wordpress.org/sequential/",
+                "reference": "1.1.7"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/theme/sequential.1.1.7.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-theme",
+            "homepage": "https://wordpress.org/themes/sequential/"
         },
         {
             "name": "wpackagist-theme/siteorigin-north",
@@ -1709,16 +1789,16 @@
         },
         {
             "name": "phpdocumentor/reflection-docblock",
-            "version": "3.1.0",
+            "version": "3.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/phpDocumentor/ReflectionDocBlock.git",
-                "reference": "9270140b940ff02e58ec577c237274e92cd40cdd"
+                "reference": "8331b5efe816ae05461b7ca1e721c01b46bafb3e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpDocumentor/ReflectionDocBlock/zipball/9270140b940ff02e58ec577c237274e92cd40cdd",
-                "reference": "9270140b940ff02e58ec577c237274e92cd40cdd",
+                "url": "https://api.github.com/repos/phpDocumentor/ReflectionDocBlock/zipball/8331b5efe816ae05461b7ca1e721c01b46bafb3e",
+                "reference": "8331b5efe816ae05461b7ca1e721c01b46bafb3e",
                 "shasum": ""
             },
             "require": {
@@ -1750,7 +1830,7 @@
                 }
             ],
             "description": "With this component, a library can provide support for annotations via DocBlocks or otherwise retrieve information that is embedded in a DocBlock.",
-            "time": "2016-06-10 09:48:41"
+            "time": "2016-09-30 07:12:33"
         },
         {
             "name": "phpdocumentor/type-resolver",
