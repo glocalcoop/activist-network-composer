@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "14c121db2cf186f5a97d21590e25789c",
-    "content-hash": "8353ebe88798ade985c08535ba545dd2",
+    "hash": "62733fc5156624cd7872eecd061714d7",
+    "content-hash": "180f6ba7ca6f506089eae9292d966e0e",
     "packages": [
         {
             "name": "anp/anp-core-functionality",
