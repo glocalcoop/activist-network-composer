@@ -340,8 +340,6 @@
         "johnjamesjacoby/bp-multi-network": "dev-master",
         "wpackagist-plugin/google-docs-shortcode": ">=0.4",
         "wp-shortcake/shortcake": "dev-master",
-        "glocalcoop/anp-network-main": "dev-master",
-        "glocalcoop/anp-network-main-child": "dev-master",
         "anp/anp-core-functionality": "dev-master",
         "wpackagist-theme/twentysixteen": ">=1.2",
     	"wpackagist-theme/vantage": ">=1.5",

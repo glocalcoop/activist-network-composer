@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "62733fc5156624cd7872eecd061714d7",
-    "content-hash": "180f6ba7ca6f506089eae9292d966e0e",
+    "hash": "c79e0f7e5be69e7ccd659f1ade1767c2",
+    "content-hash": "3788148fa4258694c85d1e5a769dcc9a",
     "packages": [
         {
             "name": "anp/anp-core-functionality",
@@ -243,40 +243,6 @@
             },
             "type": "wordpress-plugin",
             "time": "2016-06-28 20:38:40"
-        },
-        {
-            "name": "glocalcoop/anp-network-main",
-            "version": "master",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/glocalcoop/anp-network-main-v2.git",
-                "reference": "master"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://github.com/glocalcoop/anp-network-main-v2/archive/master.zip",
-                "reference": "master",
-                "shasum": null
-            },
-            "type": "wordpress-theme",
-            "time": "2016-07-25 20:52:50"
-        },
-        {
-            "name": "glocalcoop/anp-network-main-child",
-            "version": "master",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/glocalcoop/anp-network-main-v2-child.git",
-                "reference": "master"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://github.com/glocalcoop/anp-network-main-v2-child/archive/master.zip",
-                "reference": "master",
-                "shasum": null
-            },
-            "type": "wordpress-theme",
-            "time": "2016-07-11 19:34:16"
         },
         {
             "name": "glocalcoop/handbook",
@@ -2900,8 +2866,6 @@
         "stuttter/wp-multi-network": 20,
         "johnjamesjacoby/bp-multi-network": 20,
         "wp-shortcake/shortcake": 20,
-        "glocalcoop/anp-network-main": 20,
-        "glocalcoop/anp-network-main-child": 20,
         "anp/anp-core-functionality": 20
     },
     "prefer-stable": false,
