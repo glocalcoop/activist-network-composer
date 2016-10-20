@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "c79e0f7e5be69e7ccd659f1ade1767c2",
-    "content-hash": "3788148fa4258694c85d1e5a769dcc9a",
+    "hash": "4f44d9ff44a17c7f625087f115d72639",
+    "content-hash": "ad7a65a895da4b924546ea54c0ca4065",
     "packages": [
         {
             "name": "anp/anp-core-functionality",
@@ -545,15 +545,15 @@
         },
         {
             "name": "wpackagist-plugin/buddypress",
-            "version": "2.6.2",
+            "version": "2.7.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/buddypress/",
-                "reference": "tags/2.6.2"
+                "reference": "tags/2.7.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/buddypress.2.6.2.zip",
+                "url": "https://downloads.wordpress.org/plugin/buddypress.2.7.0.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -605,15 +605,15 @@
         },
         {
             "name": "wpackagist-plugin/buddypress-xprofile-custom-fields-type",
-            "version": "2.5",
+            "version": "2.6",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/buddypress-xprofile-custom-fields-type/",
-                "reference": "tags/2.5"
+                "reference": "tags/2.6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/buddypress-xprofile-custom-fields-type.2.5.zip",
+                "url": "https://downloads.wordpress.org/plugin/buddypress-xprofile-custom-fields-type.2.6.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -625,15 +625,15 @@
         },
         {
             "name": "wpackagist-plugin/caldera-forms",
-            "version": "1.4.2",
+            "version": "1.4.3.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/caldera-forms/",
-                "reference": "tags/1.4.2"
+                "reference": "tags/1.4.3.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/caldera-forms.1.4.2.zip",
+                "url": "https://downloads.wordpress.org/plugin/caldera-forms.1.4.3.1.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -925,15 +925,15 @@
         },
         {
             "name": "wpackagist-plugin/jetpack",
-            "version": "4.3.1",
+            "version": "4.3.2",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/jetpack/",
-                "reference": "tags/4.3.1"
+                "reference": "tags/4.3.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/jetpack.4.3.1.zip",
+                "url": "https://downloads.wordpress.org/plugin/jetpack.4.3.2.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -1105,15 +1105,15 @@
         },
         {
             "name": "wpackagist-plugin/polylang",
-            "version": "2.0.5",
+            "version": "2.0.7",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/polylang/",
-                "reference": "tags/2.0.5"
+                "reference": "tags/2.0.7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/polylang.2.0.5.zip",
+                "url": "https://downloads.wordpress.org/plugin/polylang.2.0.7.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -1245,15 +1245,15 @@
         },
         {
             "name": "wpackagist-plugin/siteorigin-panels",
-            "version": "2.4.16",
+            "version": "2.4.17",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/siteorigin-panels/",
-                "reference": "tags/2.4.16"
+                "reference": "tags/2.4.17"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/siteorigin-panels.2.4.16.zip",
+                "url": "https://downloads.wordpress.org/plugin/siteorigin-panels.2.4.17.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -1585,15 +1585,15 @@
         },
         {
             "name": "wpackagist-theme/siteorigin-north",
-            "version": "1.2.5",
+            "version": "1.2.6",
             "source": {
                 "type": "svn",
                 "url": "https://themes.svn.wordpress.org/siteorigin-north/",
-                "reference": "1.2.5"
+                "reference": "1.2.6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/siteorigin-north.1.2.5.zip",
+                "url": "https://downloads.wordpress.org/theme/siteorigin-north.1.2.6.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -1625,15 +1625,15 @@
         },
         {
             "name": "wpackagist-theme/vantage",
-            "version": "1.5.4",
+            "version": "1.5.5",
             "source": {
                 "type": "svn",
                 "url": "https://themes.svn.wordpress.org/vantage/",
-                "reference": "1.5.4"
+                "reference": "1.5.5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/vantage.1.5.4.zip",
+                "url": "https://downloads.wordpress.org/theme/vantage.1.5.5.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -2652,16 +2652,16 @@
         },
         {
             "name": "symfony/yaml",
-            "version": "v3.1.4",
+            "version": "v3.1.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/yaml.git",
-                "reference": "f291ed25eb1435bddbe8a96caaef16469c2a092d"
+                "reference": "368b9738d4033c8b93454cb0dbd45d305135a6d3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/yaml/zipball/f291ed25eb1435bddbe8a96caaef16469c2a092d",
-                "reference": "f291ed25eb1435bddbe8a96caaef16469c2a092d",
+                "url": "https://api.github.com/repos/symfony/yaml/zipball/368b9738d4033c8b93454cb0dbd45d305135a6d3",
+                "reference": "368b9738d4033c8b93454cb0dbd45d305135a6d3",
                 "shasum": ""
             },
             "require": {
@@ -2697,7 +2697,7 @@
             ],
             "description": "Symfony Yaml Component",
             "homepage": "https://symfony.com",
-            "time": "2016-09-02 02:12:52"
+            "time": "2016-09-25 08:27:07"
         },
         {
             "name": "webmozart/assert",

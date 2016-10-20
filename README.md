@@ -25,14 +25,14 @@ TODO
 
 == Changelog ==
 
-= 1.3.1 - Sept 30, 2016 =
+= 1.2.2 - Sept 30, 2016 =
 * [Feature #1576] - Adding more pre-built themes sites to select
 
-= 1.3 - Sept 29, 2016 =
+= 1.2.1 - Sept 29, 2016 =
 * [Feature #1561] - CiviCRM Event Organizer Events Sync
 * [Feature #1605] - Caldera Forms CiviCRM Integration
 
-= 1.2 - Aug 27, 2016 =
+= 1.2.0 - Aug 27, 2016 =
 * [Feature #1530] - Adding MailPoet for newsletter and subscription management
 
 = 1.1.2 - Aug 12, 2016 =
