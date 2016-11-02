@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "4f44d9ff44a17c7f625087f115d72639",
-    "content-hash": "ad7a65a895da4b924546ea54c0ca4065",
+    "hash": "c62da29de4266093ca6d511bd8f5d5d5",
+    "content-hash": "08e339e6509921eafb9fe8fe858a905f",
     "packages": [
         {
             "name": "anp/anp-core-functionality",
@@ -565,15 +565,15 @@
         },
         {
             "name": "wpackagist-plugin/buddypress-docs",
-            "version": "1.9.1",
+            "version": "1.9.2",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/buddypress-docs/",
-                "reference": "tags/1.9.1"
+                "reference": "tags/1.9.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/buddypress-docs.1.9.1.zip",
+                "url": "https://downloads.wordpress.org/plugin/buddypress-docs.1.9.2.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -785,15 +785,15 @@
         },
         {
             "name": "wpackagist-plugin/event-organiser",
-            "version": "3.1.4",
+            "version": "3.1.5",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/event-organiser/",
-                "reference": "tags/3.1.4"
+                "reference": "tags/3.1.5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/event-organiser.3.1.4.zip",
+                "url": "https://downloads.wordpress.org/plugin/event-organiser.3.1.5.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -1325,15 +1325,15 @@
         },
         {
             "name": "wpackagist-plugin/widgets-for-siteorigin",
-            "version": "1.2.4",
+            "version": "1.3.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/widgets-for-siteorigin/",
-                "reference": "tags/1.2.4"
+                "reference": "tags/1.3.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/widgets-for-siteorigin.1.2.4.zip",
+                "url": "https://downloads.wordpress.org/plugin/widgets-for-siteorigin.1.3.0.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -1405,15 +1405,15 @@
         },
         {
             "name": "wpackagist-plugin/wp-piwik",
-            "version": "1.0.11",
+            "version": "1.0.12",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wp-piwik/",
-                "reference": "tags/1.0.11"
+                "reference": "tags/1.0.12"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wp-piwik.1.0.11.zip",
+                "url": "https://downloads.wordpress.org/plugin/wp-piwik.1.0.12.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -1585,15 +1585,15 @@
         },
         {
             "name": "wpackagist-theme/siteorigin-north",
-            "version": "1.2.6",
+            "version": "1.2.7",
             "source": {
                 "type": "svn",
                 "url": "https://themes.svn.wordpress.org/siteorigin-north/",
-                "reference": "1.2.6"
+                "reference": "1.2.7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/siteorigin-north.1.2.6.zip",
+                "url": "https://downloads.wordpress.org/theme/siteorigin-north.1.2.7.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -1625,15 +1625,15 @@
         },
         {
             "name": "wpackagist-theme/vantage",
-            "version": "1.5.5",
+            "version": "1.5.6",
             "source": {
                 "type": "svn",
                 "url": "https://themes.svn.wordpress.org/vantage/",
-                "reference": "1.5.5"
+                "reference": "1.5.6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/vantage.1.5.5.zip",
+                "url": "https://downloads.wordpress.org/theme/vantage.1.5.6.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -2652,16 +2652,16 @@
         },
         {
             "name": "symfony/yaml",
-            "version": "v3.1.5",
+            "version": "v3.1.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/yaml.git",
-                "reference": "368b9738d4033c8b93454cb0dbd45d305135a6d3"
+                "reference": "7ff51b06c6c3d5cc6686df69004a42c69df09e27"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/yaml/zipball/368b9738d4033c8b93454cb0dbd45d305135a6d3",
-                "reference": "368b9738d4033c8b93454cb0dbd45d305135a6d3",
+                "url": "https://api.github.com/repos/symfony/yaml/zipball/7ff51b06c6c3d5cc6686df69004a42c69df09e27",
+                "reference": "7ff51b06c6c3d5cc6686df69004a42c69df09e27",
                 "shasum": ""
             },
             "require": {
@@ -2697,7 +2697,7 @@
             ],
             "description": "Symfony Yaml Component",
             "homepage": "https://symfony.com",
-            "time": "2016-09-25 08:27:07"
+            "time": "2016-10-24 18:41:13"
         },
         {
             "name": "webmozart/assert",
