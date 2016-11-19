@@ -78,11 +78,12 @@
                 "type": "wordpress-plugin",
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/glocalcoop/anp-buddypress-customization/archive/master.zip"
+                    "url": "https://git.glocal.coop/anp/anp-buddypress-customization/repository/archive.zip",
+                    "reference": "master"
                 },
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/glocalcoop/anp-buddypress-customization.git",
+                    "url": "https://git.glocal.coop/anp/anp-buddypress-customization.git",
                     "reference": "master"
                 }
             }
