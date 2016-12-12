@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "f6508307bd998f73b1742ff2afb389bf",
-    "content-hash": "2a8da7e790330904f00eb1e81ce87974",
+    "hash": "98846f48d704541a51e557169b6c14a9",
+    "content-hash": "05fb9adc471a47842b4e8020d1ca2b68",
     "packages": [
         {
             "name": "anp/anp-core-functionality",
@@ -43,10 +43,10 @@
         },
         {
             "name": "civicrm/civicrm",
-            "version": "4.6.18",
+            "version": "4.7.14",
             "dist": {
                 "type": "zip",
-                "url": "https://download.civicrm.org/civicrm-4.6.18-wordpress.zip",
+                "url": "https://download.civicrm.org/civicrm-4.7.14-wordpress.zip",
                 "reference": null,
                 "shasum": null
             },
