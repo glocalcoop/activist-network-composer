@@ -289,7 +289,7 @@
       "wpackagist-plugin/civicrm-contribution-page-widget": ">=0.1",
       "mecachisenros/caldera-forms-civicrm": "dev-master",
       "christianwach/civicrm-event-organiser": "dev-master",
-      "wpackagist-plugin/radio-buttons-for-taxonomies": ">=1.7.7",
+      "wpackagist-plugin/radio-buttons-for-taxonomies": "dev-trunk",
       "stuttter/wp-multi-network": "dev-master",
       "johnjamesjacoby/bp-multi-network": "dev-master",
       "anp/anp-core-functionality": "dev-master",
