@@ -25,6 +25,9 @@ TODO
 
 == Changelog ==
 
+= 1.3 - Jan 8, 2017 =
+* Upgrade to CiviCRM 4.7.15
+
 = 1.2.2 - Sept 30, 2016 =
 * [Feature #1576] - Adding more pre-built themes sites to select
 
