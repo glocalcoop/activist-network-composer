@@ -1,6 +1,6 @@
 {
-    "name": "glocalcoop/activist-network-composer",
-    "homepage": "https://github.com/glocalcoop/activist-network-composer",
+    "name": "anp/activist-network-composer",
+    "homepage": "https://git.glocal.coop/anp/activist-network-composer",
     "authors": [
         {
             "name": "Pea, Glocal",
@@ -27,11 +27,11 @@
                 "type": "wordpress-plugin",
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/glocalcoop/anp-meetings/archive/master.zip"
+                    "url": "https://git.glocal.coop/anp/anp-meetings/repository/archive.zip"
                 },
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/glocalcoop/anp-meetings.git",
+                    "url": "https://git.glocal.coop/anp/anp-meetings.git",
                     "reference": "master"
                 }
             }
@@ -39,16 +39,16 @@
         {
             "type": "package",
             "package": {
-                "name": "glocalcoop/anp-network-content",
+                "name": "anp/anp-network-content",
                 "version": "master",
                 "type": "wordpress-plugin",
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/glocalcoop/anp-network-content/archive/master.zip"
+                    "url": "https://git.glocal.coop/anp/anp-network-content/repository/archive.zip"
                 },
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/glocalcoop/anp-network-content.git",
+                    "url": "https://git.glocal.coop/anp/anp-network-content.git",
                     "reference": "master"
                 }
             }
@@ -56,7 +56,7 @@
         {
             "type": "package",
             "package": {
-                "name": "glocalcoop/anp-buddypress-customization",
+                "name": "anp/anp-buddypress-customization",
                 "version": "master",
                 "type": "wordpress-plugin",
                 "dist": {
@@ -74,16 +74,16 @@
         {
             "type": "package",
             "package": {
-                "name": "glocalcoop/handbook",
+                "name": "wordpress-development/handbook",
                 "version": "master",
                 "type": "wordpress-plugin",
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/glocalcoop/handbook/archive/master.zip"
+                    "url": "https://git.glocal.coop/wordpress-development/handbook/repository/archive.zip"
                 },
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/glocalcoop/handbook.git",
+                    "url": "https://git.glocal.coop/wordpress-development/handbook.git",
                     "reference": "master"
                 }
             }
@@ -91,16 +91,16 @@
         {
             "type": "package",
             "package": {
-                "name": "glocalcoop/knowledge-base",
+                "name": "wordpress-development/knowledge-base",
                 "version": "master",
                 "type": "wordpress-plugin",
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/glocalcoop/knowledge-base/archive/master.zip"
+                    "url": "https://git.glocal.coop/wordpress-development/knowledge-base/repository/archive.zip"
                 },
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/glocalcoop/knowledge-base.git",
+                    "url": "https://git.glocal.coop/wordpress-development/knowledge-base.git",
                     "reference": "master"
                 }
             }
@@ -238,11 +238,11 @@
         }
     ],
     "require": {
-      "glocalcoop/anp-network-content":"dev-master",
-      "glocalcoop/anp-meetings": "dev-master",
-      "glocalcoop/anp-buddypress-customization": "dev-master",
-      "glocalcoop/handbook": "dev-master",
-      "glocalcoop/knowledge-base": "dev-master",
+      "anp/anp-network-content":"dev-master",
+      "anp/anp-meetings": "dev-master",
+      "anp/anp-buddypress-customization": "dev-master",
+      "wordpress-development/handbook": "dev-master",
+      "wordpress-development/knowledge-base": "dev-master",
       "wpackagist-plugin/codepress-admin-columns": "^2.5.6.4",
       "wpackagist-plugin/caldera-forms": "^1.4.7",
       "wpackagist-plugin/event-organiser": "^3.1.7",

@@ -4,8 +4,8 @@ Contributors: misfist, danaskallman
 Tags: multisite
 
 Requires at least: 4.0
-Tested up to: 4.4
-Stable tag: 1.1.2
+Tested up to: 4.7
+Version: 1.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -27,6 +27,8 @@ TODO
 
 = 1.3 - Jan 8, 2017 =
 * Upgrade to CiviCRM 4.7.15
+* Fixed composer "name" and "homepage"
+* Updated repos to use Glocal instead of GitHub
 
 = 1.2.2 - Sept 30, 2016 =
 * [Feature #1576] - Adding more pre-built themes sites to select
@@ -46,5 +48,3 @@ TODO
 * Removed some development-only plugins
 
 == Credits ==
-
-
