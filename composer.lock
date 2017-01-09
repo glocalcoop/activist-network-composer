@@ -4,8 +4,26 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "cedcae2ffb7f3d1788717233f54ead57",
+    "hash": "f150bff789613a2ca5dcbd62f2f65b61",
+    "content-hash": "1941edd1f840fabe9262cd2b7e508ce9",
     "packages": [
+        {
+            "name": "anp/anp-buddypress-customization",
+            "version": "master",
+            "source": {
+                "type": "git",
+                "url": "https://git.glocal.coop/anp/anp-buddypress-customization.git",
+                "reference": "master"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://git.glocal.coop/anp/anp-buddypress-customization/repository/archive.zip",
+                "reference": "master",
+                "shasum": null
+            },
+            "type": "wordpress-plugin",
+            "time": "2016-10-27 00:24:12"
+        },
         {
             "name": "anp/anp-core-functionality",
             "version": "master",
@@ -21,7 +39,41 @@
                 "shasum": null
             },
             "type": "wordpress-plugin",
-            "time": "2016-12-06 18:22:22"
+            "time": "2017-01-08 20:58:37"
+        },
+        {
+            "name": "anp/anp-meetings",
+            "version": "master",
+            "source": {
+                "type": "git",
+                "url": "https://git.glocal.coop/anp/anp-meetings.git",
+                "reference": "master"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://git.glocal.coop/anp/anp-meetings/repository/archive.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "type": "wordpress-plugin",
+            "time": "2017-01-09 00:38:36"
+        },
+        {
+            "name": "anp/anp-network-content",
+            "version": "master",
+            "source": {
+                "type": "git",
+                "url": "https://git.glocal.coop/anp/anp-network-content.git",
+                "reference": "master"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://git.glocal.coop/anp/anp-network-content/repository/archive.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "type": "wordpress-plugin",
+            "time": "2016-09-28 15:13:47"
         },
         {
             "name": "christianwach/civicrm-event-organiser",
@@ -156,7 +208,7 @@
                 "zend",
                 "zikula"
             ],
-            "time": "2016-08-13T20:53:52+00:00"
+            "time": "2016-08-13 20:53:52"
         },
         {
             "name": "cuny-academic-commons/bp-event-organiser",
@@ -174,91 +226,6 @@
             },
             "type": "wordpress-plugin",
             "time": "2016-12-21 01:40:14"
-        },
-        {
-            "name": "glocalcoop/anp-buddypress-customization",
-            "version": "master",
-            "source": {
-                "type": "git",
-                "url": "https://git.glocal.coop/anp/anp-buddypress-customization.git",
-                "reference": "master"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://github.com/glocalcoop/anp-buddypress-customization/archive/master.zip",
-                "reference": "master",
-                "shasum": null
-            },
-            "type": "wordpress-plugin",
-            "time": "2016-10-27 00:24:12"
-        },
-        {
-            "name": "glocalcoop/anp-meetings",
-            "version": "master",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/glocalcoop/anp-meetings.git",
-                "reference": "master"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://github.com/glocalcoop/anp-meetings/archive/master.zip",
-                "reference": "master",
-                "shasum": null
-            },
-            "type": "wordpress-plugin",
-            "time": "2016-12-21 07:40:39"
-        },
-        {
-            "name": "glocalcoop/anp-network-content",
-            "version": "master",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/glocalcoop/anp-network-content.git",
-                "reference": "master"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://github.com/glocalcoop/anp-network-content/archive/master.zip",
-                "reference": "master",
-                "shasum": null
-            },
-            "type": "wordpress-plugin",
-            "time": "2016-09-28 15:13:47"
-        },
-        {
-            "name": "glocalcoop/handbook",
-            "version": "master",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/glocalcoop/handbook.git",
-                "reference": "master"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://github.com/glocalcoop/handbook/archive/master.zip",
-                "reference": "master",
-                "shasum": null
-            },
-            "type": "wordpress-plugin",
-            "time": "2016-12-17 21:14:36"
-        },
-        {
-            "name": "glocalcoop/knowledge-base",
-            "version": "master",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/glocalcoop/knowledge-base.git",
-                "reference": "master"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://github.com/glocalcoop/knowledge-base/archive/master.zip",
-                "reference": "master",
-                "shasum": null
-            },
-            "type": "wordpress-plugin",
-            "time": "2016-10-17 21:49:55"
         },
         {
             "name": "johnjamesjacoby/bp-multi-network",
@@ -327,6 +294,40 @@
             },
             "type": "wordpress-plugin",
             "time": "2017-01-03 18:35:39"
+        },
+        {
+            "name": "wordpress-development/handbook",
+            "version": "master",
+            "source": {
+                "type": "git",
+                "url": "https://git.glocal.coop/wordpress-development/handbook.git",
+                "reference": "master"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://git.glocal.coop/wordpress-development/handbook/repository/archive.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "type": "wordpress-plugin",
+            "time": "2016-12-17 21:13:20"
+        },
+        {
+            "name": "wordpress-development/knowledge-base",
+            "version": "master",
+            "source": {
+                "type": "git",
+                "url": "https://git.glocal.coop/wordpress-development/knowledge-base.git",
+                "reference": "master"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://git.glocal.coop/wordpress-development/knowledge-base/repository/archive.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "type": "wordpress-plugin",
+            "time": "2016-10-17 21:49:55"
         },
         {
             "name": "wpackagist-plugin/bbpress",
@@ -947,7 +948,7 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/radio-buttons-for-taxonomies/",
-            "time": "2016-12-07T18:51:15+00:00"
+            "time": "2016-12-07 18:51:15"
         },
         {
             "name": "wpackagist-plugin/rss-importer",
@@ -1403,7 +1404,7 @@
                 "constructor",
                 "instantiate"
             ],
-            "time": "2015-06-14T21:17:01+00:00"
+            "time": "2015-06-14 21:17:01"
         },
         {
             "name": "phpdocumentor/reflection-common",
@@ -1457,7 +1458,7 @@
                 "reflection",
                 "static analysis"
             ],
-            "time": "2015-12-27T11:43:31+00:00"
+            "time": "2015-12-27 11:43:31"
         },
         {
             "name": "phpdocumentor/reflection-docblock",
@@ -1502,7 +1503,7 @@
                 }
             ],
             "description": "With this component, a library can provide support for annotations via DocBlocks or otherwise retrieve information that is embedded in a DocBlock.",
-            "time": "2016-09-30T07:12:33+00:00"
+            "time": "2016-09-30 07:12:33"
         },
         {
             "name": "phpdocumentor/type-resolver",
@@ -1549,7 +1550,7 @@
                     "email": "me@mikevanriel.com"
                 }
             ],
-            "time": "2016-11-25T06:54:22+00:00"
+            "time": "2016-11-25 06:54:22"
         },
         {
             "name": "phpspec/prophecy",
@@ -1612,7 +1613,7 @@
                 "spy",
                 "stub"
             ],
-            "time": "2016-11-21T14:58:47+00:00"
+            "time": "2016-11-21 14:58:47"
         },
         {
             "name": "phpunit/php-code-coverage",
@@ -1674,7 +1675,7 @@
                 "testing",
                 "xunit"
             ],
-            "time": "2015-10-06T15:47:00+00:00"
+            "time": "2015-10-06 15:47:00"
         },
         {
             "name": "phpunit/php-file-iterator",
@@ -1721,7 +1722,7 @@
                 "filesystem",
                 "iterator"
             ],
-            "time": "2016-10-03T07:40:28+00:00"
+            "time": "2016-10-03 07:40:28"
         },
         {
             "name": "phpunit/php-text-template",
@@ -1762,7 +1763,7 @@
             "keywords": [
                 "template"
             ],
-            "time": "2015-06-21T13:50:34+00:00"
+            "time": "2015-06-21 13:50:34"
         },
         {
             "name": "phpunit/php-timer",
@@ -1806,7 +1807,7 @@
             "keywords": [
                 "timer"
             ],
-            "time": "2016-05-12T18:03:57+00:00"
+            "time": "2016-05-12 18:03:57"
         },
         {
             "name": "phpunit/php-token-stream",
@@ -1855,7 +1856,7 @@
             "keywords": [
                 "tokenizer"
             ],
-            "time": "2016-11-15T14:06:22+00:00"
+            "time": "2016-11-15 14:06:22"
         },
         {
             "name": "phpunit/phpunit",
@@ -1927,7 +1928,7 @@
                 "testing",
                 "xunit"
             ],
-            "time": "2016-12-09T02:45:31+00:00"
+            "time": "2016-12-09 02:45:31"
         },
         {
             "name": "phpunit/phpunit-mock-objects",
@@ -1983,7 +1984,7 @@
                 "mock",
                 "xunit"
             ],
-            "time": "2015-10-02T06:51:40+00:00"
+            "time": "2015-10-02 06:51:40"
         },
         {
             "name": "sebastian/comparator",
@@ -2047,7 +2048,7 @@
                 "compare",
                 "equality"
             ],
-            "time": "2016-11-19T09:18:40+00:00"
+            "time": "2016-11-19 09:18:40"
         },
         {
             "name": "sebastian/diff",
@@ -2099,7 +2100,7 @@
             "keywords": [
                 "diff"
             ],
-            "time": "2015-12-08T07:14:41+00:00"
+            "time": "2015-12-08 07:14:41"
         },
         {
             "name": "sebastian/environment",
@@ -2149,7 +2150,7 @@
                 "environment",
                 "hhvm"
             ],
-            "time": "2016-08-18T05:49:44+00:00"
+            "time": "2016-08-18 05:49:44"
         },
         {
             "name": "sebastian/exporter",
@@ -2216,7 +2217,7 @@
                 "export",
                 "exporter"
             ],
-            "time": "2016-06-17T09:04:28+00:00"
+            "time": "2016-06-17 09:04:28"
         },
         {
             "name": "sebastian/global-state",
@@ -2267,7 +2268,7 @@
             "keywords": [
                 "global state"
             ],
-            "time": "2015-10-12T03:26:01+00:00"
+            "time": "2015-10-12 03:26:01"
         },
         {
             "name": "sebastian/recursion-context",
@@ -2320,7 +2321,7 @@
             ],
             "description": "Provides functionality to recursively process PHP variables",
             "homepage": "http://www.github.com/sebastianbergmann/recursion-context",
-            "time": "2015-11-11T19:50:13+00:00"
+            "time": "2015-11-11 19:50:13"
         },
         {
             "name": "sebastian/version",
@@ -2355,7 +2356,7 @@
             ],
             "description": "Library that helps with managing the version number of Git-hosted PHP projects",
             "homepage": "https://github.com/sebastianbergmann/version",
-            "time": "2015-06-21T13:59:46+00:00"
+            "time": "2015-06-21 13:59:46"
         },
         {
             "name": "symfony/yaml",
@@ -2410,7 +2411,7 @@
             ],
             "description": "Symfony Yaml Component",
             "homepage": "https://symfony.com",
-            "time": "2016-12-10T10:07:06+00:00"
+            "time": "2016-12-10 10:07:06"
         },
         {
             "name": "webmozart/assert",
@@ -2460,7 +2461,7 @@
                 "check",
                 "validate"
             ],
-            "time": "2016-11-23T20:04:58+00:00"
+            "time": "2016-11-23 20:04:58"
         },
         {
             "name": "wpackagist-plugin/customizer-reset-by-wpzoom",
@@ -2586,11 +2587,11 @@
     "aliases": [],
     "minimum-stability": "stable",
     "stability-flags": {
-        "glocalcoop/anp-network-content": 20,
-        "glocalcoop/anp-meetings": 20,
-        "glocalcoop/anp-buddypress-customization": 20,
-        "glocalcoop/handbook": 20,
-        "glocalcoop/knowledge-base": 20,
+        "anp/anp-network-content": 20,
+        "anp/anp-meetings": 20,
+        "anp/anp-buddypress-customization": 20,
+        "wordpress-development/handbook": 20,
+        "wordpress-development/knowledge-base": 20,
         "cuny-academic-commons/bp-event-organiser": 20,
         "r-a-y/bp-hide-user": 20,
         "mecachisenros/caldera-forms-civicrm": 20,

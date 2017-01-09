@@ -22,7 +22,7 @@
         {
             "type": "package",
             "package": {
-                "name": "glocalcoop/anp-meetings",
+                "name": "anp/anp-meetings",
                 "version": "master",
                 "type": "wordpress-plugin",
                 "dist": {
